@@ -5,19 +5,18 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
     
-    You have missed Mix-IT because it was full !
-    You're fed up with going far away to assist to Devoxx
-    Get your skis ready for the 21st and 22nd of January 2016
-    SnowCamp only in Grenoble
+    Vous avez raté Mix-IT faute de place !
+    Marre de vous déplacer en lointaine banlieue pour voir Devoxx
+    Fartez les skis pour les 21 -22 Janvier 2016
+    SnowCamp uniquement à Grenoble
 
-#### A local event
-    Yes, SnowCamp is unique and in Grenoble, so it will drive you nuts
+#### Un événement local
+    Oui le SnowCamp est unique et grenoblois, donc ça va envoyer de la noix
 
 #### Snow 
-    SnowCamp will be held on a Thursday and a Friday so we can go skiing/snowboarding/sledging on the Satur
+    SnowCamp aura lieu un Jeudi et un Vendredi de manière à aller skier/surfer/lugger de manière informelle le samedi
 
 #### Innovation
-    To avoid being  just anoter conference (even with snow) SnowCamp is an opiniated conference
-    With lightning talks from de PhD students and researchers
-    Technical only
-        
+    Pour ne pas être une nième conférence (même enneigée) le SnowCamp est une conférence opiniated
+    Des lightning talks de doctorants et chercheurs
+    Un choix délibérément technique
