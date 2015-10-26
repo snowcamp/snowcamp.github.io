@@ -12,7 +12,7 @@ title : SnowCamp 2016
 tagline: Snow Tech and Fun
 author :
   name : Snowcamp Team
-  email : administrateur_chez_alpesjug_point_org
+  email : contact_at_snowcamp.io
   github : snowcamp
   twitter : SnowCamp2016
 
@@ -68,11 +68,11 @@ JB :
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
   #
-  archive_path: /archive.html
-  categories_path : /categories.html
-  tags_path : /tags.html
-  atom_path : /atom.xml
-  rss_path : /rss.xml
+  # archive_path: /archive.html
+  # categories_path : /categories.html
+  # tags_path : /tags.html
+  # atom_path : /atom.xml
+  # rss_path : /rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
