@@ -11,13 +11,12 @@ tagline: Supporting tagline
     SnowCamp only in Grenoble
 
 #### A local event
-    Yes, SnowCamp is unique and in Grenoble, so it will drive you nuts
+    Yes, SnowCamp is unique and in Grenoble, so it will drive you [nuts](http://www.grenoble-tourisme.com/en/discover/gastronomy/local-specialties-and-products/)
 
 #### Snow 
-    SnowCamp will be held on a Thursday and a Friday so we can go skiing/snowboarding/sledging on the Satur
+    SnowCamp will be held on a Thursday and a Friday so we can go skiing/snowboarding/sledging on the Saturday.
 
 #### Innovation
-    To avoid being  just anoter conference (even with snow) SnowCamp is an opiniated conference
-    With lightning talks from de PhD students and researchers
+    To avoid being  just another conference (even with snow) SnowCamp is an opiniated conference  
+    With lightning talks from PhD students and researchers
     Technical only
-        
