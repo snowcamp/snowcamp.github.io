@@ -20,6 +20,6 @@ tagline: Supporting tagline
 
 #### Innovation
     To avoid being  just anoter conference (even with snow) SnowCamp is an opinionated conference
-    With lightning talks from de PhD students and researchers
+    With lightning talks from PhD students and researchers
     Technical only
         
