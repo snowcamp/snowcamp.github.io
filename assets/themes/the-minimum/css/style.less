@@ -89,6 +89,26 @@ pre {
 		} // .article-inner header
 
 		.entry-content {
+                        h1 {
+                            background-color: #1a1a1a;
+                            background-color: rgba(21, 25, 25, 0.8);
+                            color: #fafafa;
+                            color: rgba(250, 250, 250, 0.8);
+                            a {
+                                    &:link {
+                                            color: @accent-color;
+                                            border: 0;
+                                    }
+                                    &:visited {
+                                            color: darken(@accent-color, 10%);
+                                            border: 0;
+                                    }
+                                    &:hover {
+                                            color: lighten(@accent-color, 10%);
+                                            border: 0;
+                                    }
+                            }
+                        }
 			h2, h3, h4, h5, h6 {
 				color: @main-font-color;
                                 background-color: #BADA55;
