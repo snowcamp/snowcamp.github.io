@@ -10,6 +10,8 @@ tagline: Supporting tagline
     Get your skis ready for the 21st and 22nd of January 2016
     SnowCamp only in Grenoble
 
+#The [CFP](https://cfp.snowcamp.io) est open until the 25th of December. Time to write your proposals.
+
 #### A local event
     Yes, SnowCamp is unique and in Grenoble, so it will drive you nuts
 
@@ -17,7 +19,7 @@ tagline: Supporting tagline
     SnowCamp will be held on a Thursday and a Friday so we can go skiing/snowboarding/sledging on the Satur
 
 #### Innovation
-    To avoid being  just anoter conference (even with snow) SnowCamp is an opiniated conference
+    To avoid being  just anoter conference (even with snow) SnowCamp is an opinionated conference
     With lightning talks from de PhD students and researchers
     Technical only
         
