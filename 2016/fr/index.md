@@ -20,5 +20,5 @@ tagline: Supporting tagline
 
 #### Innovation
     Pour ne pas être une nième conférence (même enneigée) le SnowCamp est une conférence opinionated
-    Des lightning talks de doctorants et chercheurs
+    Des lightning talks de doctorants et chercheurs afin de donner la parole à une autre branche de geeks.
     Un choix délibérément technique
