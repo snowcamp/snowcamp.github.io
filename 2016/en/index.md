@@ -10,7 +10,7 @@ tagline: Supporting tagline
     Get your skis ready for the 21st and 22nd of January 2016
     SnowCamp only in Grenoble
 
-#The [CFP](https://cfp.snowcamp.io) est open until the 25th of December. Time to write your proposals.
+#The [CFP](https://cfp.snowcamp.io) is open until the 25th of December. Time to write your proposals.
 
 #### A local event
     Yes, SnowCamp is unique and in Grenoble, so it will drive you nuts
