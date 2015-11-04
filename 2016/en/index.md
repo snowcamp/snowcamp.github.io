@@ -19,7 +19,7 @@ tagline: Supporting tagline
     SnowCamp will be held on a Thursday and a Friday so we can go skiing/snowboarding/sledging on the Satur
 
 #### Innovation
-    To avoid being  just anoter conference (even with snow) SnowCamp is an opinionated conference
+    To avoid being  just another conference (even with snow) SnowCamp is an opinionated conference
     With lightning talks from PhD students and researchers mix developpers with another branch of the geek society.
     Technical only
         
