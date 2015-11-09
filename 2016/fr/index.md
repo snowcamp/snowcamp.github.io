@@ -13,7 +13,7 @@ tagline: Supporting tagline
 #Le [CFP](https://cfp.snowcamp.io) est ouvert jusqu'au 25 Décembre. A vos propositions.
 
 #### Un événement local
-    Oui le SnowCamp est unique et grenoblois, donc ça va envoyer de la noix
+Oui le SnowCamp est unique et grenoblois, donc ça va envoyer de la [NOIX](http://www.aoc-noixdegrenoble.com/).
 
 #### Snow 
     SnowCamp aura lieu un Jeudi et un Vendredi de manière à aller skier/surfer/lugger de manière informelle le samedi
