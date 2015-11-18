@@ -83,12 +83,31 @@ h4,
   margin-bottom: 26px;
 }
 p,
-ul,
 ol,
 dl,
 img {
   margin-top: 0;
   margin-bottom: 1.625em;
+}
+ul {
+    color: #F2F2F2;
+    background-color: #393939;
+    border: 1px solid #393939;
+    margin-top: 0;
+    margin-bottom: 1.625em;
+    font-family: "Bitstream Vera Sans Mono","Courier";
+}
+.entry-content ul a:link {
+  color: #99cc99;
+  border: 0;
+}
+.entry-content ul a:visited {
+  color: #77bb77;
+  border: 0;
+}
+.entry-content ul a:hover {
+  color: #F2F2F2;
+  border: 0;
 }
 small,
 .small,

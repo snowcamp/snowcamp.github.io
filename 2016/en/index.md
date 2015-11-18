@@ -13,12 +13,14 @@ tagline: Supporting tagline
 #The [CFP](https://cfp.snowcamp.io) est open until the 25th of December. Time to write your proposals.
 
 #### A local event
-Yes, SnowCamp is unique and in Grenoble, it will drive you [NUTS](http://www.grenoble-tourisme.com/en/discover/gastronomy/local-specialties-and-products/).
+-   Yes, SnowCamp is unique and in Grenoble, it will drive you [NUTS](http://www.grenoble-tourisme.com/en/discover/gastronomy/local-specialties-and-products/).
 
 #### Snow 
-    SnowCamp will be held on a Thursday and a Friday so we can go skiing/snowboarding/sledging on the Saturday.
+-   SnowCamp will be held on a Thursday and a Friday so we can go skiing/snowboarding/sledging on the Saturday.
 
 #### Innovation
-    To avoid being just another conference (even with snow) SnowCamp is an opinionated conference.
+-   To avoid being just another conference (even with snow) SnowCamp is an opinionated conference.
+-   Technical only.
     With lightning talks from PhD students and researchers thus mixing developpers with another branch of the geek society.
-    Technical only.
+-   Various talks variés (Web, IoT, cloud, devops, Big Data), *lightning talks* from PhD students, researchers and *even from people who code*.
+-   But it is also an *unconference* Saturday on the 23rd ofJanuary, we can can all meet on the snow slopes for fun.
