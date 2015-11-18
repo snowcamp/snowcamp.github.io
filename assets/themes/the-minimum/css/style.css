@@ -249,6 +249,14 @@ pre {
   position: relative;
   top: 2px;
 }
+.the-header .nav-global ul {
+    color: #F2F2F2;
+    background-color: #FFFFFF;
+    border: 0px solid #FFFFFF;
+    margin-top: 0;
+    margin-bottom: 1.625em;
+    font-family: "Bitstream Vera Sans Mono","Courier";
+}
 /* MAIN
 --------------------------------------------------------------------------------- */
 .unit-article header {
