@@ -82,7 +82,10 @@ h4,
   margin-top: 26px;
   margin-bottom: 26px;
 }
-p,
+p {
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+  },
 ol,
 dl,
 img {
@@ -205,7 +208,7 @@ html {
 /* LINK */
 a:link {
   color: #2d2d2d;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:visited {
   color: #141414;
@@ -239,6 +242,9 @@ pre {
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   margin: 0;
 }
+.the-header .logo a:link {
+  text-decoration: none;
+}
 .the-header .logo a:visited {
   color: #2d2d2d;
 }
@@ -256,6 +262,9 @@ pre {
     margin-top: 0;
     margin-bottom: 1.625em;
     font-family: "Bitstream Vera Sans Mono","Courier";
+}
+.the-header .nav-global a:link {
+  text-decoration: none;
 }
 /* MAIN
 --------------------------------------------------------------------------------- */
@@ -808,7 +817,7 @@ pre {
   }
 }
 /*
-	Not that old computer layout 
+	Not that old computer layout
 */
 @media only screen and (min-width: 1280px) {
   .the-header .unit-inner {
@@ -854,7 +863,7 @@ pre {
   }
 }
 /*
-	Huge-screen layout 
+	Huge-screen layout
 */
 @media only screen and (min-width: 1410px) {
   .the-header .unit-inner {
