@@ -5,8 +5,6 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-    You have missed Mix-IT because it was full !
-    You're fed up with going far away to assist to Devoxx
     Get your skis ready for the 21st and 22nd of January 2016
     SnowCamp only in Grenoble
 

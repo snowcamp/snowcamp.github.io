@@ -7,6 +7,8 @@ tags: []
 ---
 {% include JB/setup %}
 
+# Sponsoriser le SnowCamp !
+
     SnowCamp est un événement qui réunit 250 développeurs et développeuses autour de l'innovation et du développement (Web, Mobile, Java, Cloud, IoT, ... ) durant une conférence sur deux jours les 21 et 22 Janvier à Grenoble, suivie d’une “unconference” au ski le 23.
 
 Cette conférence technique cible les développeurs et les chercheurs, en
