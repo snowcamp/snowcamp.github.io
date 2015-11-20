@@ -13,7 +13,7 @@ SnowCamp.io takes place in ENSIMAG (ex-ENSE3), 41 Rue des Mathématiques, 38610 
 
 You can access:
 
-- by Tram B or C, bus stop "Gabriel Fauré" (see [here](http://www.tag.fr/87-itineraire.htm) to compute an itinerary).
+- by Tram B or C, bus stop "Gabriel Fauré" (see [here](http://www.tag.fr/87-itineraire.htm) to compute an itinerary)
 - road N87
   - exit 1 / Saint Martin d'Hères / Gières / Mayencin if you come from highway A48
   - exit 1 / Gières / Mayencin if you come from highway A41
