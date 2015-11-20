@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'SnowtopCaps';
+  src: url('/assets/themes/snowcamp/font/SnowtopCaps.ttf') format('truetype');
+  font-weight: normal !important;
+  font-style: normal;
+}
+
+
+.the-header .logo {
+  font-family: "SnowtopCaps" !important;
+}
+
+.the-header .logo a {
+  font-size: 52px !important;
+}
+
+@media only screen and (min-width: 480px) {
+  .the-header .logo a {
+    font-size: 62px !important;
+  }
+}
