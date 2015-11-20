@@ -19,7 +19,7 @@
 	<header class="the-header">
 		<div class="unit-head">
 			<div class="unit-inner unit-head-inner">
-				<p class="logo"><a href="{{ HOME_PATH }}">{{ site.title }}</a></p>
+				<p class="logo"><img src="{{ ASSET_PATH }}/../snowcamp/img/logo-snowcamp_200x200.png"></img><a href="{{ HOME_PATH }}">{{ site.title }}</a></p>
 				<nav class="nav-global">
 					<ul>
 						<li><a href="https://cfp.snowcamp.io">CFP</a></li>
@@ -46,6 +46,9 @@
 				<div class="misc vcard">
 					<h4>about</h4>
 					<ul>
+						<li>
+							{{ page.lang }}
+						</li>
 						<li class="contact"><address><span class="author fn n">{{ site.author.name }}</span> - <span class="fn email">{{ site.author.email }}</span></address></li>
 						<li class="github"><a href="http://github.com/{{ site.author.github }}/" rel="me">github.com/{{ site.author.github }}</a></li>
 						<li class="twitter"><a href="http://twitter.com/{{ site.author.twitter }}/" rel="me">twitter.com/{{ site.author.twitter }}</a></li>
