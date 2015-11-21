@@ -8,6 +8,7 @@
 
 .the-header .logo {
   font-family: "SnowtopCaps" !important;
+  white-space: nowrap;
 }
 
 .the-header .logo a {
