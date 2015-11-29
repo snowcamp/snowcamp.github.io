@@ -5,7 +5,6 @@
   font-style: normal;
 }
 
-
 .the-header .logo {
   font-family: "SnowtopCaps" !important;
   white-space: nowrap;
@@ -13,6 +12,19 @@
 
 .the-header .logo a {
   font-size: 52px !important;
+}
+
+.sponsors {
+  margin-left: 45px;
+  margin-right: 45px;
+  margin-bottom: 45px;
+}
+
+.sponsors .sponsor-logo {
+  height: auto;
+  width: auto;
+  max-width: 350px;
+  margin: 20px;
 }
 
 @media only screen and (min-width: 480px) {
