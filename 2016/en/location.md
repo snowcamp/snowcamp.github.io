@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Venue"
-description: ""
-category:
-tags: []
+menu: "Venue"
+menu-order: 3
+lang: en
 ---
 {% include JB/setup %}
 

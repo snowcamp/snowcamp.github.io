@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Lieu"
-description: ""
-category:
-tags: []
+menu: "Venir"
+menu-order: 3
+lang: fr
 ---
 {% include JB/setup %}
 
