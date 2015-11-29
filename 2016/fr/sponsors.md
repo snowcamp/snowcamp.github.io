@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Sponsoriser le SnowCamp !"
-description: ""
-category:
-tags: []
+menu: "Sponsors"
+menu-order: 2
+lang: fr
 ---
 {% include JB/setup %}
 
