@@ -20,5 +20,5 @@ tagline: Supporting tagline
 -   To avoid being just another conference (even with snow) SnowCamp is an opinionated conference.
 -   Technical only.
     With lightning talks from PhD students and researchers thus mixing developers with another branch of the geek society.
--   Various talks variés (Web, IoT, Cloud, DevOps, Big Data), *lightning talks* from PhD students, researchers and *even from people who code*.
+-   Various talks (Web, IoT, Cloud, DevOps, Big Data), *lightning talks* from PhD students, researchers and *even from people who code*.
 -   But it is also an *unconference* Saturday on the 23rd ofJanuary, we can can all meet on the snow slopes for fun.
