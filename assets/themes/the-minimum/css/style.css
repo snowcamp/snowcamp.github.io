@@ -263,6 +263,8 @@ pre {
     color: #F2F2F2;
     background-color: #FFFFFF;
     border: 0px solid #FFFFFF;
+    width: 25em;
+    float: right;
     margin-top: 0;
     margin-bottom: 1.625em;
     font-family: "Bitstream Vera Sans Mono","Courier";
@@ -762,9 +764,6 @@ pre {
     margin-right: 16px;
     word-spacing: normal;
     vertical-align: middle;
-  }
-  .the-header .nav-global li:last-child {
-    margin-right: 0;
   }
   .unit-article .unit-head-inner,
   .unit-article .entry-content,
