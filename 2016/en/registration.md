@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Registration"
-description: ""
-category:
-tags: []
+menu: "Inscriptions"
+menu-order: 1
+lang: en
 ---
 {% include JB/setup %}
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Inscriptions"
-description: ""
-category:
-tags: []
+menu: "Inscriptions"
+menu-order: 1
+lang: fr
 ---
 {% include JB/setup %}
 

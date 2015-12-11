@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Become a SnowCamp Sponsor!"
-description: ""
-category:
-tags: []
+menu: "Sponsors"
+menu-order: 2
+lang: en
 ---
 {% include JB/setup %}
 
