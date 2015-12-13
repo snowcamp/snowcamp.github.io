@@ -16,20 +16,20 @@ fa-color: black
 # Sponsors!
 
 <div class="sponsors center">
-  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/sonarqube_logo.png"></img>
+  <img class="sponsor-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/sonarqube_logo.png"></img>
   <!-- <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/redhat_logo.png"></img> -->
-  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/salesforce_logo.png"></img>
-  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/elastic_logo.png"></img>
-  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/datastax_logo.png"></img>
+  <img class="sponsor-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/salesforce_logo.png"></img>
+  <img class="sponsor-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/elastic_logo.png"></img>
+  <!-- <img class="sponsor-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/datastax_logo.png"></img> -->
 </div>
 
 # Partners!
 
 <div class="sponsors center">
-  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/commitstrip_logo.png"></img>
-  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/alpesjug_logo.jpeg"></img>
-  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/cara_logo.png"></img>
-  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/ensimag_logo.png"></img>
+  <img class="sponsor-logo wow slideInLeft" data-wow-duration="1s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/commitstrip_logo.png"></img>
+  <img class="sponsor-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/alpesjug_logo.jpeg"></img>
+  <img class="sponsor-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/cara_logo.png"></img>
+  <img class="sponsor-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/ensimag_logo.png"></img>
 </div>
 
 #Become a SnowCamp Sponsor!
