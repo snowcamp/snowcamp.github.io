@@ -22,7 +22,7 @@ html { box-sizing: border-box; }
   {% capture circlefg %}{% if site.colors[node.fa-color] %}{{ site.colors[node.fa-color] }}{% else %}{{ site.colors[node.bg] }}{% endif %}{% endcapture %}
   nav .p-{{id}} { border-color: {{ bg }}; }
   #{{id}} { background-color: {{ bg }} !important; color: {{ fg }}; }
-  #{{id}} a { color: {{ fg }}; }
+  /*#{{id}} a { color: {{ fg }}; }*/
   #{{id}} .sectiondivider { color: {{ circlefg }}; }
 {% endfor %}
 
@@ -172,7 +172,7 @@ nav ul li:hover, nav ul li.active {
   display:block;
   width:100%;
   min-height:300px;
-  padding:210px 0px 160px 0px;
+  padding:120px 0px 120px 0px;
 }
 
 .section:first-of-type {

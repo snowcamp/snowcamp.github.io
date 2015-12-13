@@ -1,0 +1,225 @@
+body {
+  font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
+  font-size: 1em;
+  line-height: 1.625em;
+}
+/*
+Font size setting
+Using Golden ratio section (Caliculated via http://j.mp/sB6oxM):
+109.657	6.854	843.515 * h1
+82.241	5.14	632.623
+67.773	4.236	521.331
+50.829	3.177	390.992
+41.887	2.618	322.208 * h2
+31.415	1.963	241.654
+25.888	1.618	199.138 * h3
+19.416	1.214	149.354 * h4
+16.000	1	    123.077 * Base font size
+12.000	0.75	92.308  * Minimum font size
+Vertical Rhythm is caluculated via http://j.mp/sUvKuN
+
+No styleguide reference.
+*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
+  font-weight: bold;
+  padding-left: 0.75em;
+}
+h1,
+.h1 {
+  font-size: 42px;
+  line-height: 52px;
+  margin-top: 52px;
+  margin-bottom: 26px;
+  letter-spacing: -1px;
+}
+h2,
+.h2 {
+  font-size: 42px;
+  line-height: 52px;
+  margin-top: 52px;
+  margin-bottom: 26px;
+  letter-spacing: -1px;
+}
+h3,
+.h3 {
+  font-size: 26px;
+  line-height: 26px;
+  margin-top: 26px;
+  margin-bottom: 26px;
+}
+h4,
+.h4 {
+  font-size: 20px;
+  line-height: 26px;
+  margin-top: 26px;
+  margin-bottom: 26px;
+}
+p {
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+}
+ol,
+dl,
+img {
+  margin-top: 0;
+  margin-bottom: 1.625em;
+}
+ul {
+    color: #F2F2F2;
+    background-color: #393939;
+    border: 1px solid #393939;
+    margin-top: 0;
+    margin-bottom: 1.625em;
+    font-family: "Bitstream Vera Sans Mono","Courier";
+}
+
+ul a:link {
+  color: #99cc99;
+  border: 0;
+}
+ul a:visited {
+  color: #77bb77;
+  border: 0;
+}
+
+ul a:hover {
+  color: #F2F2F2;
+  border: 0;
+}
+small,
+.small,
+aside {
+  font-size: 0.75em;
+}
+.font-size-default {
+  font-size: 1em;
+}
+blockquote {
+  font-weight: bold;
+}
+blockquote cite {
+  font-weight: normal;
+}
+strong {
+  font-weight: bold;
+}
+em {
+  font-weight: bold;
+}
+/*
+Color schemes
+
+No styleguide reference.
+*/
+/* solarized - http://j.mp/s9Xuw9
+
+@base03:    #002b36;
+@base02:    #073642;
+@base01:    #586e75;
+@base00:    #657b83;
+@base0:     #839496;
+@base1:     #93a1a1;
+@base2:     #eee8d5;
+@base3:     #fdf6e3;
+@yellow:    #b58900;
+@orange:    #cb4b16;
+@red:       #dc322f;
+// @magenta:   #d33682;
+@violet:    #6c71c4;
+@blue:      #268bd2;
+@cyan:      #2aa198;
+@green:     #859900;
+
+*/
+/* Junction Font
+ * http://www.theleagueofmoveabletype.com/
+ * Using for Logo and headers
+*/
+@font-face {
+  font-family: 'junctionregularRegular';
+  src: url('/assets/themes/the-minimum/font/Junction-webfont.eot');
+  src: url('/assets/themes/the-minimum/font/Junction-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/themes/the-minimum/font/Junction-webfont.woff') format('woff'), url('/assets/themes/the-minimum/font/Junction-webfont.ttf') format('truetype'), url('/assets/themes/the-minimum/font/Junction-webfont.svg#junctionregularRegular') format('svg');
+  font-weight: normal !important;
+  font-style: normal;
+}
+/*
+LESS helper
+*/
+/*
+List modules
+.list-linear  - list line up horizontally
+
+No styleguide reference.
+*/
+.list-linear {
+  letter-spacing: -0.31em;
+  *letter-spacing: normal;
+  word-spacing: -0.43em;
+  list-style: none;
+  padding-left: 0;
+}
+.list-linear li {
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+  line-height: normal;
+  letter-spacing: normal;
+  margin-right: 16px;
+  word-spacing: normal;
+  vertical-align: middle;
+}
+.list-linear li:last-child {
+  margin-right: 0;
+}
+/* LESS VARIABLES
+--------------------------------------------------------------------------------- */
+/* GLOBAL
+--------------------------------------------------------------------------------- */
+html {
+  background-color: #ffffff;
+  color: #2d2d2d;
+}
+/* LINK */
+a:link {
+  color: #2d2d2d;
+  text-decoration: underline;
+}
+a:visited {
+  color: #141414;
+  text-decoration: none;
+}
+a:hover {
+  color: #474747;
+  text-decoration: none;
+}
+/* HIGHLIGHTER */
+pre {
+  margin-bottom: 1.625em;
+}
+pre {
+  color: #f2f2f2;
+  background-color: #393939;
+  border: 1px solid #393939;
+  font-family: "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 1.625em;
+  overflow: auto;
+  -webkit-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.6);
+  -moz-box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.6);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255, 255, 255, 0.6);
+}
+
+.container h2, .container h3, .container h4 {
+  text-align: left;
+}
+
+.container ol, .container ul {
+  padding: 15px 8% 0px 8%;
+}
