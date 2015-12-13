@@ -1,6 +1,6 @@
 ---
 ---
-{% include themes/snowcamp/css/base.css %}
-{% include themes/snowcamp/css/skeleton.css %}
-{% include themes/snowcamp/css/main.css %}
-{% include themes/snowcamp/css/the-minimum.css %}
+{% include_relative base.css %}
+{% include_relative skeleton.css %}
+{% include_relative main.css %}
+{% include_relative the-minimum.css %}
