@@ -1,5 +1,5 @@
 ---
-title: "Registration"
+title: "Inscriptions"
 lang: fr
 bg: black
 color: white
