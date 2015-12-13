@@ -25,12 +25,11 @@ header nav #nav-mobile {
 .logo a {
   font-size: 5em;
   text-decoration: none;
-  color: rgb(45, 45, 45);
+  color: white;
 }
 
 .logo a:hover {
   text-decoration: none;
-  color: rgb(45, 45, 45);
 }
 
 .logo a:link {
@@ -48,12 +47,10 @@ header nav #nav-mobile {
 @media only screen and (min-width: 480px) {
   .logo a {
     text-decoration: none;
-    color: rgb(45, 45, 45);
   }
 
   .logo a:hover {
     text-decoration: none;
-    color: rgb(45, 45, 45);
   }
 
 }
