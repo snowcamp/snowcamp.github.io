@@ -5,18 +5,54 @@
   font-style: normal;
 }
 
-
-.the-header .logo {
-  font-family: "SnowtopCaps" !important;
-  white-space: nowrap;
+header nav {
+  height: 226px;
+  background-image: url("/assets/themes/snowcamp/skin/belledonne.jpg");
+  background-repeat: repeat;
 }
 
-.the-header .logo a {
-  font-size: 52px !important;
+header nav #nav-mobile {
+  background-color: black;
+}
+
+.logo {
+  font-family: "SnowtopCaps" !important;
+  white-space: nowrap;
+  padding-left: 50px;
+}
+
+.logo a {
+  font-size: 5em;
+  text-decoration: none;
+  color: rgb(45, 45, 45);
+}
+
+.logo a:hover {
+  text-decoration: none;
+  color: rgb(45, 45, 45);
+}
+
+.logo a:link {
+  text-decoration: none;
+}
+
+.logo a:visited {
+  text-decoration: none;
+}
+
+.logo a:active {
+  text-decoration: none;
 }
 
 @media only screen and (min-width: 480px) {
-  .the-header .logo a {
-    font-size: 62px !important;
+  .logo a {
+    text-decoration: none;
+    color: rgb(45, 45, 45);
   }
+
+  .logo a:hover {
+    text-decoration: none;
+    color: rgb(45, 45, 45);
+  }
+
 }
