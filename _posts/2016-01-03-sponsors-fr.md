@@ -1,9 +1,10 @@
 ---
 title: "Sponsors"
 lang: fr
-bg: orange
+bg: white
 color: black
 fa-icon: toggle-on
+fa-color: black
 ---
 
 # Sponsoriser le SnowCamp !

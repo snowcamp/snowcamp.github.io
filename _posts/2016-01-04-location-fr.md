@@ -1,7 +1,7 @@
 ---
 title: "Venir"
 lang: fr
-bg: '#63BD2F'
+bg: black
 color: white
 fa-icon: road
 ---

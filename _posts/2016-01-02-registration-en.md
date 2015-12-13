@@ -1,7 +1,7 @@
 ---
 title: "Registration"
 lang: en
-bg: blue
+bg: black
 color: white
 fa-icon: check-square-o
 ---

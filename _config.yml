@@ -17,6 +17,17 @@ author :
   github : snowcamp
   twitter : SnowCamp2016
 
+### template colors, used site-wide via css ###
+colors:
+###  black:     '#111111'
+  black:     '#393939'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls

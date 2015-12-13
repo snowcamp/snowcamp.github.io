@@ -1,7 +1,7 @@
 ---
 title: "Venue"
 lang: en
-bg: '#63BD2F'
+bg: black
 color: white
 fa-icon: road
 ---
