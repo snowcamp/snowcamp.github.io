@@ -44,6 +44,19 @@ header nav #nav-mobile {
   text-decoration: none;
 }
 
+.sponsors {
+  margin-left: 45px;
+  margin-right: 45px;
+  margin-bottom: 45px;
+}
+
+.sponsors .sponsor-logo {
+  height: auto;
+  width: 35%;
+  max-width: 350px;
+  margin: 20px;
+}
+
 @media only screen and (min-width: 480px) {
   .logo a {
     text-decoration: none;

@@ -9,6 +9,30 @@ fa-icon: toggle-on
 fa-color: black
 ---
 
+{: .center }
+    Cette conférence ne pourrait se faire à un tel tarif sans le soutien de nos précieux sponsors et partenaires !
+    Un grand MERCI à nos sponsors et partenaires qui soutiennent de tels événements !
+
+# Sponsors !
+
+<div class="sponsors center">
+  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/sonarqube_logo.png"></img>
+  <!-- <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/redhat_logo.png"></img> -->
+  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/salesforce_logo.png"></img>
+  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/elastic_logo.png"></img>
+  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/datastax_logo.png"></img>
+</div>
+
+# Partenaires !
+
+<div class="sponsors center">
+  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/commitstrip_logo.png"></img>
+  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/alpesjug_logo.jpeg"></img>
+  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/cara_logo.png"></img>
+  <img class="sponsor-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/ensimag_logo.png"></img>
+</div>
+
+
 # Sponsoriser le SnowCamp !
 
     SnowCamp est un événement qui réunit 250 développeurs et développeuses autour de l'innovation et du développement (Web, Mobile, Java, Cloud, IoT, ... ) durant une conférence sur deux jours les 21 et 22 Janvier à Grenoble, suivie d’une “unconference” au ski le 23.
