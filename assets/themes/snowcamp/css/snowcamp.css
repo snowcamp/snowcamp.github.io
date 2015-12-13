@@ -8,12 +8,20 @@
 
 header nav {
   height: 226px;
-  background-image: url("/assets/themes/snowcamp/skin/belledonne.jpg");
-  background-repeat: repeat;
+  background-image: url("/assets/themes/snowcamp/skin/belledonne4.jpg");
+  background-color: #393939;
+  background-position: center center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 
-header nav #nav-mobile {
-  background-color: black;
+header nav ul {
+  color: #F2F2F2;
+  background-color: transparent;
+  border: none;
+  margin-top: 0;
+  margin-bottom: 0px;
+  font-family: "Bitstream Vera Sans Mono","Courier";
 }
 
 .logo {
