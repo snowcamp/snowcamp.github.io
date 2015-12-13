@@ -92,6 +92,7 @@ ul a:hover {
   color: #F2F2F2;
   border: 0;
 }
+
 small,
 .small,
 aside {
@@ -223,3 +224,21 @@ pre {
 .container ol, .container ul {
   padding: 15px 8% 0px 8%;
 }
+
+
+.hyperlink-second a:link {
+  color: #99cc99;
+  border: 0;
+}
+
+.hyperlink-second a:visited {
+  color: #77bb77;
+  border: 0;
+}
+
+.hyperlink-second a:hover {
+  color: #F2F2F2;
+  border: 0;
+}
+
+blockquote, blockquote p { color: #fff; }

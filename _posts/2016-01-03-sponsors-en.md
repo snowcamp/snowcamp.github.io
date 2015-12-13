@@ -1,8 +1,10 @@
 ---
 title: "Sponsors"
 lang: en
+menu: true
 bg: white
 color: black
+style: left
 fa-icon: toggle-on
 fa-color: black
 ---

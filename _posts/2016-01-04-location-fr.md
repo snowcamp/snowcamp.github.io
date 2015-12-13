@@ -1,8 +1,10 @@
 ---
 title: "Venir"
 lang: fr
+menu: true
 bg: black
 color: white
+style: left
 fa-icon: road
 ---
 

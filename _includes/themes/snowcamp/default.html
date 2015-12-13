@@ -47,19 +47,19 @@
 	<header>
 		<nav>
 			<ul>
-			{% assign posts = site.posts | where:"lang",page.lang %}
-			{% for node in posts reversed %}
+			{% assign postsWithMenu = site.posts | where:"lang",page.lang | where:"menu",true %}
+			{% for node in postsWithMenu reversed %}
 				{% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
 				<li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
 			{% endfor %}
 				<li class="p-cfp"><a id="cfp" href="https://cfp.snowcamp.io">CFP</a></li>
 			</ul>
 			<div class="logo">
-				<img src="{{ ASSET_PATH }}//skin/alpes-snow-full-illustration.png" width="200" height="200"></img><a href="{{ page.url }}">{{ site.title }}</a>
+				<img src="{{ ASSET_PATH }}/skin/alpes-snow-full-illustration.png" width="200" height="200"></img><a href="{{ page.url }}">{{ site.title }}</a>
 			</div>
 		</nav>
 	</header>
-
+	{% assign posts = site.posts | where:"lang",page.lang %}
 	{% for page in posts reversed %}
 		{% capture id %}{{ page.id  | remove:'/' | downcase }}{% endcapture %}
 		<section id="{{id}}" class="section p-{{id}}">

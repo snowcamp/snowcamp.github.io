@@ -13,9 +13,14 @@ title : SnowCamp 2016
 tagline: Snow Tech and Fun
 author :
   name : Snowcamp Team
-  email : contact_at_snowcamp.io
+  email :
+    adress: contact@snowcamp.io
+    alias: contact_at_snowcamp_dot_io
   github : snowcamp
-  twitter : SnowCamp2016
+  twitter :
+    account : "@SnowCamp2016"
+    url : http://twitter.com/SnowCamp2016
+
 
 ### template colors, used site-wide via css ###
 colors:
