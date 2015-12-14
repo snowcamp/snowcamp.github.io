@@ -12,10 +12,10 @@ fa-icon: check-square-o
 # [Early Bird registration is open !!!](https://yurplan.com/event/Snow-Camp/6343)
 
 #### Conference Pass
-Pass for 2 days of conferences at 50€.
+Pass for 2 days of conferences (Thursday and Friday) at 50€.
 
 #### University pass
-<strong>Add a full day of workshops to your conference pass.<br/>
+<strong>Add a full day of workshops  on Wednesday to your conference pass.<br/>
 Don't forget to bring your laptop</strong><br/>
 1 day of University + 2 days of conferences at 100€.<br/>
 Choose between:
