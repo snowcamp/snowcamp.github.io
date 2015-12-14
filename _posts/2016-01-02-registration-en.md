@@ -15,8 +15,9 @@ fa-icon: check-square-o
 Pass for 2 days of conferences at 50€.
 
 #### University pass
-1 day of University + 2 days of conferences at 100€
-Add one day full of workshops to your conference pass.
+<strong>Add a full day of workshops to your conference pass.<br/>
+Don't forget to bring your laptop</strong><br/>
+1 day of University + 2 days of conferences at 100€.<br/>
 Choose between:
 
 * **Google Cloud Platform Fundamentals** with Didier Girard:<br/>
@@ -29,14 +30,26 @@ Choose between:
   <br/>We will deploy these containers in a scalable and resilient way, will scale them horizontally and then tear them down again.
   We will deploy applications as well as databases.
   <br/><a href="https://www.openshift.com/">About OpenShift</a></blockquote>
-* **Introduction to Apache Casandra** with DuyHai Doan:<br/>
-   <blockquote><a href="https://cassandra.apache.org/">About Apache Cassandra</a>
+* **Learn about Apache Casandra** with DuyHai Doan:<br/>
+   <blockquote>This workshop will introduce Apache Cassandra with the following steps:
+    <ul>
+        <li>Introduction to Apache Cassandra</li>
+        <li>Architecture</li>
+        <li>Reading and writing data</li>
+        <li>Data Model Level 1</li>
+        <li>Multi Data center</li>
+        <li>Data Model Level 2</li>
+        <li>Hardware recommendations</li>
+        <li>Day to day life with Apache Cassandra</li>
+        <li>Advanced Apache Cassandra: DSE Search, DSE Analytics</li>
+    </ul>
+    <br/><a href="https://cassandra.apache.org/">About Apache Cassandra</a>
    </blockquote>
 * **Let's start to discover Elasticsearch and Kibana** with David Pilato:
   <blockquote>For this session, you will need: a JVM and a browser.
   We will install Elasticsearch, Kibana and Marvel and will use that tools to:
     <ul>
-      <li> index/update/get/delete documents</li>
+      <li>index/update/get/delete documents</li>
       <li>search</li>
       <li>compute</li>
       <li>build dashboards to make sense of marketing data</li>

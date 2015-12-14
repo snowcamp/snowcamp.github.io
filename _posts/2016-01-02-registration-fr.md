@@ -15,8 +15,9 @@ fa-icon: check-square-o
 Pass pour 2 journées de conférences à 50€.
 
 #### Pass Université
-1 journée d'Université + 2 jours de conférences à 100€.
-Ajoutez une journée complète de workshops à votre pass conférences.
+<strong>Ajoutez une journée complète d'ateliers à votre pass conférences.<br/>
+N'oubliez pas votre portable</strong><br/>
+1 journée d'Université + 2 jours de conférences à 100€.<br/>
 Choisissez parmi:
 
 * **Google Cloud Platform Fondamentaux** avec Didier Girard:<br/>
@@ -29,8 +30,20 @@ Choisissez parmi:
   <blockquote>Venez découvrir dans ce workshop comment déployer des conteneurs qui « scale ». Mais il y a plus ! Nous allons construire des conteneurs Docker sans avoir besoin de Docker lui-même installé !
   <br/>Nous déploierons ces conteneurs de façon résiliente et scalable, nous les passerons à l'échelle, les rendrons extensibles horizontalement. Nous déploierons des applications aussi bien que des bases de données.
   <br/><a href="https://www.openshift.com/">À propos d'OpenShift</a></blockquote>
-* **Introduction à Apache Casandra** with DuyHai Doan:<br/>
-   <blockquote><a href="https://cassandra.apache.org/">À propos d'Apache Cassandra</a>
+* **Apprenez Apache Casandra** avec DuyHai Doan:<br/>
+   <blockquote>Cet atelier est une introduction à Apache Cassandra en plusieurs étapes :
+    <ul>
+        <li>Introduction à Cassandra</li>
+        <li>Architecture</li>
+        <li>Chemin d'écriture/de lecture</li>
+        <li>Modélisation de données niveau 1</li>
+        <li>Multi Data center</li>
+        <li>Modélisation de données niveau 2</li>
+        <li>Recommandation matériel</li>
+        <li>Gérer Cassandra au jour le jour</li>
+        <li>Cassandra avancé (DSE Search, DSE Analytics)</li>
+    </ul>
+    <a href="https://cassandra.apache.org/">À propos d'Apache Cassandra</a>
    </blockquote>
 * **À la découverte d'Elasticsearch et de Kibana** avec David Pilato:
   <blockquote>Pour cette session, vous aurez besoin d'une JVM et d'un navigateur.
