@@ -30,7 +30,7 @@ Choisissez parmi:
   <blockquote>Venez découvrir dans ce workshop comment déployer des conteneurs qui « scale ». Mais il y a plus ! Nous allons construire des conteneurs Docker sans avoir besoin de Docker lui-même installé !
   <br/>Nous déploierons ces conteneurs de façon résiliente et scalable, nous les passerons à l'échelle, les rendrons extensibles horizontalement. Nous déploierons des applications aussi bien que des bases de données.
   <br/><a href="https://www.openshift.com/">À propos d'OpenShift</a></blockquote>
-* **Apprenez Apache Casandra** avec DuyHai Doan:<br/>
+* **Apprenez Apache Cassandra** avec DuyHai Doan:<br/>
    <blockquote>Cet atelier est une introduction à Apache Cassandra en plusieurs étapes :
     <ul>
         <li>Introduction à Cassandra</li>

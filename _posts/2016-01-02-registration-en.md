@@ -30,7 +30,7 @@ Choose between:
   <br/>We will deploy these containers in a scalable and resilient way, will scale them horizontally and then tear them down again.
   We will deploy applications as well as databases.
   <br/><a href="https://www.openshift.com/">About OpenShift</a></blockquote>
-* **Learn about Apache Casandra** with DuyHai Doan:<br/>
+* **Learn about Apache Cassandra** with DuyHai Doan:<br/>
    <blockquote>This workshop will introduce Apache Cassandra with the following steps:
     <ul>
         <li>Introduction to Apache Cassandra</li>
