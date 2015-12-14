@@ -24,6 +24,14 @@ header nav ul {
   font-family: "Bitstream Vera Sans Mono","Courier";
 }
 
+nav ul li a:link {
+    color: white;
+}
+
+nav ul li a:visited {
+    color: #393939;
+}
+
 .logo {
   font-family: "SnowtopCaps" !important;
   white-space: nowrap;
@@ -33,7 +41,7 @@ header nav ul {
 .logo a {
   font-size: 500%;
   text-decoration: none;
-  color: white;
+  color: #393939;
 }
 
 .logo a:hover {
