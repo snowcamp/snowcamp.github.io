@@ -12,10 +12,10 @@ fa-icon: check-square-o
 # [Les tickets Early Bird sont disponibles !!!](https://yurplan.com/event/Snow-Camp/6343)
 
 #### Pass Conférence
-Pass pour 2 journées de conférences à 50€.
+Pass pour 2 journées (Jeudi - Vendredi) de conférences à 50€.
 
 #### Pass Université
-<strong>Ajoutez une journée complète d'ateliers à votre pass conférences.<br/>
+<strong>Ajoutez une journée complète d'ateliers le Mercredi à votre pass conférences.<br/>
 N'oubliez pas votre portable</strong><br/>
 1 journée d'Université + 2 jours de conférences à 100€.<br/>
 Choisissez parmi:
