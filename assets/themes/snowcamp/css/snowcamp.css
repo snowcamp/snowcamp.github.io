@@ -60,13 +60,13 @@ nav ul li a:visited {
   text-decoration: none;
 }
 
-.sponsors {
+.supporters {
   margin-left: 45px;
   margin-right: 45px;
   margin-bottom: 45px;
 }
 
-.sponsors .sponsor-logo {
+.supporters .supporter-logo {
   height: auto;
   width: 35%;
   max-width: 350px;
