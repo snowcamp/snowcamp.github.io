@@ -56,3 +56,13 @@ Choose between:
     </ul>
     <a href="https://www.elastic.co/">About ElasticSearch</a>
   </blockquote>
+* **Play with OpenStack**:
+  <blockquote>This workshop aims to use OpenStack and understand its principles :
+          <ul>
+      <li>Quick glance on the OpenStack ecosystem and its Foundation</li>
+      <li>Overall architecture and components</li>
+      <li>Usage of the Web console and the CLI tools</li>
+      <li>But also some other pointers for going further...</li>
+          </ul>
+          <a href="https://www.openstack.org/">About OpenStack</a>
+  </blockquote>
