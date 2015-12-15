@@ -18,4 +18,4 @@ Pour vous y rendre, vous pouvez:
 - la rocade N87
 - sortie 1 / Saint Martin d'Hères / Gières / Mayencin si vous venez de l'autoroute A48
 - sortie 1 / Gières / Mayencin si vous venez de l'autoroute A41
-- en vélo [bike](http://www.metromobilite.fr/velo.html)
+- en [vélo](http://www.metromobilite.fr/velo.html)
