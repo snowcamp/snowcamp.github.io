@@ -56,3 +56,13 @@ Choisissez parmi:
     </ul>
     <a href="https://www.elastic.co/">À propos d'ElasticSearch</a>
   </blockquote>
+* **Utilisation d'OpenStack**:
+  <blockquote>Cet atelier permet de découvrir la solution de cloud opensource OpenStack :
+       <ul>
+      <li>découverte de l'écosystème OpenStack et sa Fondation</li>
+      <li>présentation des différents composants</li>
+      <li>utiliser sa console Web ou ses outils en ligne de commande</li>
+      <li>mais aussi des pointeurs pour aller plus loin...</li>
+       </ul>
+       <a href="https://www.openstack.org/">À propos d'OpenStack</a>
+  </blockquote>
