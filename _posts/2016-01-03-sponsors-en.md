@@ -16,20 +16,35 @@ fa-color: black
 # Sponsors!
 
 <div class="supporters center">
-  <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/sonarqube_logo.png"></img>
-  <!-- <img class="supporter-logo" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/redhat_logo.png"></img> -->
-  <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/salesforce_logo.png"></img>
-  <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/elastic_logo.png"></img>
-  <!-- <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/datastax_logo.png"></img> -->
+  <a href="http://www.sonarqube.org/" target="_blank" title="SonarQube">
+    <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/sonarqube_logo.png"></img>
+  </a>
+  <a href="http://www.salesforce.com/" target="_blank" title="Salesforce">
+    <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/salesforce_logo.png"></img>
+  </a>
+  <a href="https://www.elastic.co/" target="_blank" title="Elastic">
+    <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/elastic_logo.png"></img>
+  </a>  
+  <!-- <a href="http://www.datastax.com/" target="_blank" title="DataStax">
+    <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/datastax_logo.png"></img>
+  </a> -->
 </div>
 
 # Partners!
 
 <div class="supporters center">
-  <img class="supporter-logo wow slideInLeft" data-wow-duration="1s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/commitstrip_logo.png"></img>
-  <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/alpesjug_logo.jpeg"></img>
-  <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/cara_logo.png"></img>
-  <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/ensimag_logo.png"></img>
+  <a href="http://www.commitstrip.com/en/" target="_blank" title="CommitStrip">
+    <img class="supporter-logo wow slideInLeft" data-wow-duration="1s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/commitstrip_logo.png"></img>
+  </a>  
+  <a href="http://www.alpesjug.org/" target="_blank" title="AlpesJUG">
+    <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/alpesjug_logo.jpeg"></img>
+  </a>  
+  <a href="http://www.clubagilerhonealpes.org/" target="_blank" title="CARA : Club Agile Rhône-Alpes">
+    <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/cara_logo.png"></img>
+  </a>  
+  <a href="http://ensimag.grenoble-inp.fr/welcome/" target="_blank" title="ENSIMAG">  
+    <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/ensimag_logo.png"></img>
+  </a>  
 </div>
 
 #Become a SnowCamp Sponsor!
