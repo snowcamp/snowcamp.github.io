@@ -11,6 +11,9 @@ fa-icon: check-square-o
 {: .hyperlink-second }
 # [Les tickets Early Bird sont disponibles !!!](https://yurplan.com/event/Snow-Camp/6343)
 
+{: .hyperlink-second .center }
+SnowCamp.io est aussi disponible comme formation professionnelle avec notre partenaire Oxiane : [ici](http://www.oxiane.com/snowcamp-2016/).
+
 #### Pass Conférence
 Pass pour 2 journées (Jeudi - Vendredi) de conférences à 50€.
 

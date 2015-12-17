@@ -45,6 +45,9 @@ fa-color: black
   <a href="http://ensimag.grenoble-inp.fr/" target="_blank" title="ENSIMAG">  
     <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/ensimag_logo.png"></img>
   </a>
+  <a href="http://www.oxiane.com/snowcamp-2016/" target="_blank" title="Oxiane">  
+    <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/oxiane_logo.png"></img>
+  </a>
 </div>
 
 
