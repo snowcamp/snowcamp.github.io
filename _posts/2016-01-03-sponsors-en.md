@@ -24,9 +24,12 @@ fa-color: black
   </a>
   <a href="https://www.elastic.co/" target="_blank" title="Elastic">
     <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/elastic_logo.png"></img>
-  </a>  
+  </a>
+  <a href="http://www.deolan.com/" target="_blank" title="Deolan">
+    <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/deolan_logo.svg" style="width: 50%"></img>
+  </a>
   <!-- <a href="http://www.datastax.com/" target="_blank" title="DataStax">
-    <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/datastax_logo.png"></img>
+    <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/datastax_logo.png"></img>
   </a> -->
 </div>
 
