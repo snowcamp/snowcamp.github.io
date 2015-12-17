@@ -11,6 +11,9 @@ fa-icon: check-square-o
 {: .hyperlink-second }
 # [Early Bird registration is open !!!](https://yurplan.com/event/Snow-Camp/6343)
 
+{: .hyperlink-second .center }
+SnowCamp.io is also available as a professional training with our partner Oxiane: **[here](http://www.oxiane.com/snowcamp-2016/)**.
+
 #### Conference Pass
 Pass for 2 days of conferences (Thursday and Friday) at 50€.
 
