@@ -16,6 +16,14 @@ fa-color: black
 # Sponsors!
 
 <div class="supporters center">
+  <h2 style="text-align: center;">Etoile</h2>
+  <a href="https://www.enalean.com/en" target="_blank" title="Enalean">
+    <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/enalean_logo.png"></img>
+  </a>
+</div>
+
+<div class="supporters center">
+  <h2 style="text-align: center;">Flocon</h2>
   <a href="http://www.sonarqube.org/" target="_blank" title="SonarQube">
     <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/sonarqube_logo.png"></img>
   </a>
@@ -53,6 +61,9 @@ fa-color: black
   </a>  
   <a href="http://www.oxiane.com/snowcamp-2016/" target="_blank" title="Oxiane">  
     <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/oxiane_logo.png"></img>
+  </a>  
+  <a href="http://focusdigital.fr/" target="_blank" title="Focus Digital">  
+    <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/focusdigital_logo.png" style="width: 25%"></img>
   </a>  
 </div>
 
