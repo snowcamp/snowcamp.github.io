@@ -65,6 +65,9 @@ fa-color: black
   <a href="http://focusdigital.fr/" target="_blank" title="Focus Digital">  
     <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/focusdigital_logo.png" style="width: 25%"></img>
   </a>  
+  <a href="http://www.silverpeas.org/" target="_blank" title="Silverpeas">  
+    <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/silverpeas_logo.png"></img>
+  </a>  
 </div>
 
 #Become a SnowCamp Sponsor!
