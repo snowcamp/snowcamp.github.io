@@ -28,9 +28,6 @@ fa-color: black
   <a href="http://www.sonarqube.org/" target="_blank" title="SonarQube">
     <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/sonarqube_logo.png"></img>
   </a>
-  <a href="http://www.sonarqube.org/" target="_blank" title="SonarQube">
-    <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/sonarqube_logo.png"></img>
-  </a>
   <a href="http://www.salesforce.com/fr/" target="_blank" title="Salesforce">
     <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/salesforce_logo.png"></img>
   </a>
