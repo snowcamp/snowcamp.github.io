@@ -43,6 +43,9 @@ fa-color: black
   <a href="http://streamdata.io/" target="_blank" title="Streamdata.io">
     <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/streamdataio_logo.png" style="width: 35%"></img>
   </a>
+  <a href="https://www.redhat.com/fr/" target="_blank" title="RedHat">
+    <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/redhat_logo.png"></img>
+  </a>
 </div>
 
 # Partenaires !
