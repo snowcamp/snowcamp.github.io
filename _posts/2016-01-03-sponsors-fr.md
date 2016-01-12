@@ -18,8 +18,8 @@ fa-color: black
 
 <div class="supporters center">
   <h2 style="text-align: center;">Sponsors Etoile</h2>
-  <a href="https://www.enalean.com/fr" target="_blank" title="Enalean">
-    <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/enalean_logo.png"></img>
+  <a href="https://www.tuleap.org/" target="_blank" title="Tuleap">
+    <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/tuleap_logo.png"></img>
   </a>
 </div>
 
@@ -43,8 +43,11 @@ fa-color: black
   <a href="http://streamdata.io/" target="_blank" title="Streamdata.io">
     <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/streamdataio_logo.png" style="width: 35%"></img>
   </a>
-  <a href="https://www.redhat.com/fr/" target="_blank" title="RedHat">
+  <a href="https://www.redhat.com/fr/" target="_blank" title="Red Hat">
     <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/redhat_logo.png"></img>
+  </a>
+  <a href="https://www.jahia.com/home.html" target="_blank" title="Jahia">
+    <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/jahia_logo.png"></img>
   </a>
 </div>
 
