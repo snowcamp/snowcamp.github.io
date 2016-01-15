@@ -77,9 +77,7 @@ fa-color: black
   <a href="http://www.objectif-libre.com/en/" target="_blank" title="Objectif Libre">  
     <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/objectiflibre_logo.png"></img>
   </a>  
-  <a href="http://www.saloonapp.co/" target="_blank" title="SalooN">  
-    <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/saloon_logo.png"></img>
-  </a>  
+  <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/saloon_logo.png"></img>
 </div>
 
 #Become a SnowCamp Sponsor!
