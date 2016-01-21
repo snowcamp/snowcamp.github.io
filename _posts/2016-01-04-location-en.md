@@ -8,9 +8,10 @@ style: left
 fa-icon: road
 ---
 
-SnowCamp.io takes place in ENSIMAG (ex-ENSE3), 41 Rue des Mathématiques, 38610 Gières.
+SnowCamp.io takes place in ENSIMAG (ex-ENSE3), 11 Rue des Mathématiques, 38610 Gières in front of l'IAE, 525 Avenue Centrale, 38400 Saint-Martin-d'Hères
 
-<p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5623.435886999922!2d5.761844833213414!3d45.19280557909882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDXCsDExJzM0LjEiTiA1wrA0NSc1OC40IkU!5e0!3m2!1sen!2sfr!4v1449853214888" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+<p><iframe src="https://www.google.fr/maps/place/GIPSA+Lab/@45.1931306,5.7662903,15z/data=!4m2!3m1!1s0x0:0x91ff6114215f44c" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></p>
+
 
 You can access:
 
