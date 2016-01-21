@@ -47,7 +47,10 @@ fa-color: black
   </a>
   <a href="https://www.jahia.com/home.html" target="_blank" title="Jahia">
     <img class="supporter-logo wow slideInLeft" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/jahia_logo.png"></img>
-  </a>  
+  </a>
+  <a href="http://www.adobe.com/" target="_blank" title="Adobe">
+    <img class="supporter-logo wow slideInRight" data-wow-duration="2s" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2016/adobe_logo.jpg" style="width: 18%"></img>
+  </a>    
 </div>
 
 # Partners!
