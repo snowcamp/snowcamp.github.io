@@ -9,3 +9,7 @@ Thumbs.db
 .rbenv-version
 .rvmrc
 /nbproject/private/
+
+### IDEA
+*.iml
+.idea/
