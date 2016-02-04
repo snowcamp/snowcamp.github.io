@@ -33,6 +33,7 @@
 			</div>
 		</nav>
 	</header>
+
 	{% assign posts = site.posts | where:"lang",page.lang %}
 	{% for page in posts reversed %}
 		{% capture id %}{{ page.id  | remove:'/' | downcase }}{% endcapture %}
