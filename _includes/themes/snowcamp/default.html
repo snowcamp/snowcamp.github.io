@@ -12,8 +12,8 @@
 	<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/css/materialize.min.css"> -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-	<link href='assets/themes/snowcamp/css/combo.css' rel="stylesheet" media="all">
-	<link href='assets/themes/snowcamp/css/snowcamp.css' rel="stylesheet" media="all">
+	<link href='{{ ASSET_PATH }}/css/combo.css' rel="stylesheet" media="all">
+	<link href='{{ ASSET_PATH }}/css/snowcamp.css' rel="stylesheet" media="all">
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
 </head>
 <body>
@@ -29,7 +29,7 @@
 				<li class="p-cfp"><a id="cfp" href="https://cfp.snowcamp.io">CFP</a></li>
 			</ul>
 			<div class="logo">
-				<img src="assets/themes/snowcamp/skin/alpes-snow-full-illustration.png" width="200" height="200"></img><a href="{{ page.url }}">{{ site.title }}</a>
+				<img src="{{ ASSET_PATH }}/skin/alpes-snow-full-illustration.png" width="200" height="200"></img><a href="{{ page.url }}">{{ site.title }}</a>
 			</div>
 		</nav>
 	</header>
@@ -60,7 +60,7 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.js"></script>
 	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.js"></script> -->
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
-	<script src="assets/themes/snowcamp/js/site.js"></script>
+	<script src="{{ ASSET_PATH }}/js/site.js"></script>
 	<script>
 	$(document).ready(function() {
 		new WOW().init();
