@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SnowCamp 2017
-tagline: Supporting tagline
+tagline: SnowCamp.io is a developers conference at Grenoble
 lang: en
 ---
 {% include JB/setup %}

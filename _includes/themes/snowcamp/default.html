@@ -1,88 +1,294 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 ie" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js lt-ie9 ie" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<html>
 <head>
-	<meta charset="utf-8">
+  <!-- Standard Meta -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	<meta name="description" content="SnowCamp.io is a developers conference at Grenoble">
-	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<title>{{ page.title }}</title>
 	<meta name="author" content="{{ site.author.name }}">
-	<!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/css/materialize.min.css"> -->
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css">
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-	<link href='{{ ASSET_PATH }}/css/combo.css' rel="stylesheet" media="all">
-	<link href='{{ ASSET_PATH }}/css/snowcamp.css' rel="stylesheet" media="all">
-	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
+
+  <!-- Site Properties -->
+  	<title>{{ page.title }}</title>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/reset.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/site.css">
+
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/container.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/grid.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/header.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/image.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/menu.css">
+
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/divider.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/dropdown.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/segment.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/button.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/list.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/icon.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/sidebar.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/transition.css">
+  <link href='{{ ASSET_PATH }}/css/snowcamp.css' rel="stylesheet" media="all">
+  <style type="text/css">
+
+    .hidden.menu {
+      display: none;
+    }
+
+    .masthead.segment {
+      min-height: 700px;
+      padding: 1em 0em;
+    }
+    .masthead .logo.item img {
+      margin-right: 1em;
+    }
+    .masthead .ui.menu .ui.button {
+      margin-left: 0.5em;
+    }
+    .masthead h1.ui.header {
+      margin-top: 3em;
+      margin-bottom: 0em;
+      font-size: 4em;
+      font-weight: normal;
+    }
+    .masthead h2 {
+      font-size: 1.7em;
+      font-weight: normal;
+    }
+
+    .ui.vertical.stripe {
+      padding: 8em 0em;
+    }
+    .ui.vertical.stripe h3 {
+      font-size: 2em;
+    }
+    .ui.vertical.stripe .button + h3,
+    .ui.vertical.stripe p + h3 {
+      margin-top: 3em;
+    }
+    .ui.vertical.stripe .floated.image {
+      clear: both;
+    }
+    .ui.vertical.stripe p {
+      font-size: 1.33em;
+    }
+    .ui.vertical.stripe .horizontal.divider {
+      margin: 3em 0em;
+    }
+
+    .quote.stripe.segment {
+      padding: 0em;
+    }
+    .quote.stripe.segment .grid .column {
+      padding-top: 5em;
+      padding-bottom: 5em;
+    }
+
+    .footer.segment {
+      padding: 5em 0em;
+    }
+
+    .secondary.pointing.menu .toc.item {
+      display: none;
+    }
+
+    @media only screen and (max-width: 700px) {
+      .ui.fixed.menu {
+        display: none !important;
+      }
+      .secondary.pointing.menu .item,
+      .secondary.pointing.menu .menu {
+        display: none;
+      }
+      .secondary.pointing.menu .toc.item {
+        display: block;
+      }
+      .masthead.segment {
+        min-height: 350px;
+      }
+      .masthead h1.ui.header {
+        font-size: 2em;
+        margin-top: 1.5em;
+      }
+      .masthead h2 {
+        margin-top: 0.5em;
+        font-size: 1.5em;
+      }
+    }
+
+
+  </style>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/visibility.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/sidebar.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/transition.js"></script>
+  <script>
+  $(document)
+    .ready(function() {
+
+      // fix menu when passed
+      $('.masthead')
+        .visibility({
+          once: false,
+          onBottomPassed: function() {
+            $('.fixed.menu').transition('fade in');
+          },
+          onBottomPassedReverse: function() {
+            $('.fixed.menu').transition('fade out');
+          }
+        })
+      ;
+
+      // create sidebar and attach to menu open
+      $('.ui.sidebar')
+        .sidebar('attach events', '.toc.item')
+      ;
+
+    })
+  ;
+  </script>
 </head>
 <body>
 
-	<header>
-		<nav>
-			<ul>
-			{% assign postsWithMenu = site.posts | where:"lang",page.lang | where:"menu",true %}
-			{% for node in postsWithMenu reversed %}
-				{% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-				<li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
-			{% endfor %}
-				<li class="p-cfp"><a id="cfp" href="https://cfp.snowcamp.io">CFP</a></li>
-			</ul>
-			<div class="logo">
-				<img src="{{ ASSET_PATH }}/skin/alpes-snow-full-illustration.png" width="200" height="200"></img><a href="{{ page.url }}">{{ site.title }}</a>
-			</div>
-		</nav>
-	</header>
-	{% assign posts = site.posts | where:"lang",page.lang %}
-	{% for page in posts reversed %}
-		{% capture id %}{{ page.id  | remove:'/' | downcase }}{% endcapture %}
-		<section id="{{id}}" class="section p-{{id}}">
-			{% if page.icon %}
-			<div class="subtlecircle sectiondivider imaged">
-				<img src="{{page.icon}}" alt="section icon" />
-				<h5 class="icon-title">{{ page.title }}</h5>
-			</div>
-			{% elsif page.fa-icon %}
-			<div class="subtlecircle sectiondivider faicon">
-				<span class="fa-stack">
-					<i class="fa fa-circle fa-stack-2x"></i>
-					<i class="fa fa-{{ page.fa-icon }} fa-stack-1x"></i>
-				</span>
-				<h5 class="icon-title">{{ page.title }}</h5>
-			</div>
-			{% endif %}
-			<div class="container {{ page.style }}">
-				{{ page.content }}
-			</div>
-		</section>
-	{% endfor %}
+<!-- Following Menu -->
+<div class="ui large top fixed hidden menu">
+  <div class="ui container">
+    {% assign postsWithMenu = site.posts | where: "year", 2017 | where: "lang", page.lang | where:"menu",true %}
+    {% for node in postsWithMenu reversed %}
+    {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+       <a class="item" href="#{{id}}">{{node.title}}</a>
+    {% endfor %}
+    <!--a class="active item">Home</a-->
+    <div class="right menu">
+      <div class="item">
+        <a class="ui button">Sponsors</a>
+      </div>
+      <div class="item">
+        <a class="ui primary button" href="https://snowcamp.cfp.io" target="_blank">CFP</a>
+      </div>
+    </div>
+  </div>
+</div>
 
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.js"></script>
-	<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.js"></script> -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
-	<script src="{{ ASSET_PATH }}/js/site.js"></script>
-	<script>
-	$(document).ready(function() {
-		new WOW().init();
-	});
-	</script>
-	<script>
-		(function(d, s) {
-			var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
-			if (d.getElementById(id)) {return;}
-			js = d.createElement(s); js.src = url; js.id = id;
-			fjs.parentNode.insertBefore(js, fjs);
-			};
-		load('//platform.twitter.com/widgets.js', 'tweetjs');
-		// load('https://apis.google.com/js/plusone.js', 'gplus1js'); // Checkout http://j.mp/ApDgMr for usage html for this is <div class="g-plusone" data-size="medium"></div>
-		// load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk'); // Checkout http://j.mp/wZw2xR for using open graph protorol html for this is <div class="fb-like" data-href="{{ page.url }}" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana"></div>
-		}(document, 'script'));
-	</script>
-	<script>
-	/*! A fix for the iOS orientationchange zoom bug.Script by @scottjehl, rebound by @wilto. MIT License.*/
-	(function(j){var i=j.document;if(!i.querySelectorAll){return}var l=i.querySelectorAll("meta[name=viewport]")[0],a=l&&l.getAttribute("content"),h=a+", maximum-scale=1.0",d=a+", maximum-scale=10.0",g=true,c=j.orientation,k=0;if(!l){return}function f(){l.setAttribute("content",d);g=true}function b(){l.setAttribute("content",h);g=false}function e(m){c=Math.abs(j.orientation);k=Math.abs(m.gamma);if(k>8&&c===0){if(g){b()}}else{if(!g){f()}}}j.addEventListener("orientationchange",f,false);j.addEventListener("deviceorientation",e,false)})(this);
-	</script>
+<!-- Sidebar Menu -->
+<div class="ui vertical inverted sidebar menu">
+  {% assign postsWithMenu = site.posts | where: "year", 2017 | where: "lang", page.lang | where:"menu",true %}
+  {% for node in postsWithMenu reversed %}
+  {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+     <a class="item" href="#{{id}}">{{node.title}}</a>
+  {% endfor %}
+  <a class="item">Sponsors</a>
+  <a class="item" href="https://snowcamp.cfp.io" target="_blank">CFP</a>
+</div>
 
-  {% include JB/analytics %}
+
+<!-- Page Contents -->
+<div class="pusher">
+  <div class="ui inverted vertical masthead center aligned segment">
+    <div class="ui container">
+    <div class="ui large secondary inverted pointing menu">
+        <a class="toc item">
+          <i class="sidebar icon"></i>
+        </a>
+        {% assign postsWithMenu = site.posts | where: "year", 2017 | where: "lang", page.lang | where:"menu",true %}
+        {% for node in postsWithMenu reversed %}
+        {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+        <p>{{page.id}}</p>
+           <a class="item" href="#{{id}}">{{node.id}}</a>
+           <a class="item" href="{{node.id}}">{{node.title}}</a>
+        {% endfor %}
+        <!--a class="active item">Home</a-->
+        <div class="right item">
+          <a class="ui inverted button">Sponsors</a>
+          <a class="ui inverted button" href="https://snowcamp.cfp.io" target="_blank">CFP</a>
+        </div>
+      </div>
+    </div>
+
+    <!--
+<div class="ui container">
+    <img class="left item" src="{{ ASSET_PATH }}/skin/alpes-snow-full-illustration.png" width="100" height="100"></img>
+
+  <div class="center item">
+    <a href="{{ page.url }}">{{ site.title }}</a>
+  </div>
+  </div>
+-->
+
+    <div class="ui text container">
+      <h1 class="ui inverted header logo" style="margin-top: 2em;">
+        {{ site.title }}
+      </h1>
+      <h2>Universités + Conférences
+          <br>8, 9 et 10 Février 2017
+      </h2>
+      <h2>Unconference
+        <br>11 Février 2017
+      </h2>
+      <h2>CFP ouvert jusqu'au 1er Novembre 2016</h2>
+      <a href="https://snowcamp.cfp.io" target="_blank" class="ui huge primary button">CFP <i class="right arrow icon"></i></a>
+    </div>
+
+  </div>
+
+  <div class="ui vertical stripe segment">
+    <div class="ui middle aligned stackable grid container">
+      <div class="row">
+        <div class="eight wide column">
+          <h3 class="ui header">Un événement local</h3>
+          <p>Oui le SnowCamp est unique et grenoblois, donc ça va envoyer de la <a href="http://www.aoc-noixdegrenoble.com/" target="_blank">NOIX</a> !</p>
+          <h3 class="ui header">Snow</h3>
+          <p>SnowCamp aura lieu un Jeudi et un Vendredi de manière à aller skier/surfer/lugger de manière informelle le Samedi. Mais c’est aussi une journée Universités le Mercredi pour ceux qui veulent apprendre une nouvelle technologie.</p>
+        </div>
+        <div class="six wide right floated column">
+          <img src="assets/images/wireframe/white-image.png" class="ui large bordered rounded image">
+        </div>
+      </div>
+      <div class="row">
+        <div class="center aligned column">
+          <a class="ui huge button">Un petit coup œil sur l'édition 2016 !</a>
+        </div>
+      </div>
+    </div>
+    <h4 class="ui horizontal header divider">
+      <div>Innovation</div>
+    </h4>
+    <div class="ui text container">
+      <p>Pour ne pas être une nième conférence (même enneigée) le SnowCamp est une conférence *opinionated*.</p>
+      <p>Un choix délibérément technique.</p>
+      <p>Des talks variés (Web, IoT, Cloud, DevOps, Big Data), des *lightning talks* avec des doctorants, des chercheurs et *même des gens qui codent*.</p>
+      <p>Mais c'est aussi une journée *unconference* le Samedi 11 Février, pour tous se retrouver avec plaisir sur les pistes.</p>
+    </div>
+  </div>
+
+  <div class="ui inverted vertical footer segment">
+    <div class="ui container">
+      <div class="ui stackable inverted divided equal height stackable grid">
+        <div class="three wide column">
+          <h4 class="ui inverted header">About</h4>
+          <div class="ui inverted link list">
+            <a href="#" class="item">Sitemap</a>
+            <a href="#" class="item">Contact Us</a>
+          </div>
+        </div>
+        <div class="three wide column">
+          <h4 class="ui inverted header">Services</h4>
+          <div class="ui inverted link list">
+            <a href="#" class="item">Banana Pre-Order</a>
+            <a href="#" class="item">DNA FAQ</a>
+            <a href="#" class="item">How To Access</a>
+            <a href="#" class="item">Favorite X-Men</a>
+          </div>
+        </div>
+        <div class="seven wide column">
+          <h4 class="ui inverted header">Footer Header</h4>
+          <p>Extra space for a call to action inside the footer that could help re-engage users.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 </body>
+
 </html>
