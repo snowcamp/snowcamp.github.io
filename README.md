@@ -5,11 +5,18 @@
 You need Ruby 2.x.y to run these pages.
 You can install Ruby by using [rvm](https://rvm.io/)
 
+On a terminal:
+
+```
+gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
+\curl -sSL https://get.rvm.io | bash -s stable
+rvm install ruby-2.3.1
+```
 ## Jekyll / GitHub Pages
 
-Once Ruby installed, run in a terminal:
+Once Ruby installed, run in a (new) terminal:
 
-`gem "github-pages"`
+`gem install github-pages`
 
 ## Usage
 
