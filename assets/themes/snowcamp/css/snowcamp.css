@@ -6,58 +6,10 @@
   font-style: normal;
 }
 
-header nav {
-  height: 226px;
-  background-image: url("/assets/themes/snowcamp/skin/belledonne4.jpg");
-  background-color: #393939;
-  background-position: center center;
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
-}
-
-header nav ul {
-  color: #F2F2F2;
-  background-color: transparent;
-  border: none;
-  margin-top: 0;
-  margin-bottom: 0px;
-  font-family: "Bitstream Vera Sans Mono","Courier";
-}
-
-nav ul li a:link {
-    color: white;
-}
-
-nav ul li a:visited {
-    color: #393939;
-}
-
 .logo {
   font-family: "SnowtopCaps" !important;
   white-space: nowrap;
-  padding-left: 50px;
-}
-
-.logo a {
-  font-size: 500%;
-  text-decoration: none;
-  color: #393939;
-}
-
-.logo a:hover {
-  text-decoration: none;
-}
-
-.logo a:link {
-  text-decoration: none;
-}
-
-.logo a:visited {
-  text-decoration: none;
-}
-
-.logo a:active {
-  text-decoration: none;
+  margin-top: 2em !important;
 }
 
 .supporters {
@@ -73,17 +25,46 @@ nav ul li a:visited {
   margin: 20px;
 }
 
-.talk {
-  color: #9C9;
+.sponsors-header {
+  background-image: url("/assets/themes/snowcamp/skin/sponsors-ujf-xlarge.jpg") !important;
+  background-color: #1B1C1D;
+  background-size: cover !important;
+  background-repeat: no-repeat;
 }
 
-@media only screen and (min-width: 480px) {
-  .logo a {
-    text-decoration: none;
+@media screen and (min-width: 400px) and (max-width: 1024px) {
+  .sponsors-header {
+      background-image: url("/assets/themes/snowcamp/skin/sponsors-ujf-large.jpg") !important;
+  }
+}
+
+@media screen and (max-width: 399px) {
+  .sponsors-header {
+      background-image: url("/assets/themes/snowcamp/skin/sponsors-ujf-medium.jpg") !important;
   }
 
-  .logo a:hover {
-    text-decoration: none;
+  .sponsors-trust {
+    font-size: 1.2em !important;
   }
 
+}
+
+.previous-edition-header {
+  background-image: url("/assets/themes/snowcamp/skin/corridor-ujf-xlarge.jpg") !important;
+  background-color: #1B1C1D;
+  background-size: cover !important;
+  background-repeat: no-repeat;
+}
+
+@media screen and (min-width: 400px) and (max-width: 1024px) {
+  .previous-edition-header {
+      background-image: url("/assets/themes/snowcamp/skin/corridor-ujf-large.jpg") !important;
+  }
+}
+
+
+@media screen and (max-width: 399px) {
+  .previous-edition-header {
+      background-image: url("/assets/themes/snowcamp/skin/corridor-ujf-medium.jpg") !important;
+  }
 }
