@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SnowCamp 2016
+title: SnowCamp 2017
 tagline: Supporting tagline
 lang: fr
 ---
