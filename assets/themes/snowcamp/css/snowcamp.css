@@ -62,7 +62,6 @@
   }
 }
 
-
 @media screen and (max-width: 399px) {
   .previous-edition-header {
       background-image: url("/assets/themes/snowcamp/skin/corridor-ujf-medium.jpg") !important;
@@ -71,4 +70,24 @@
 
 .previous-edition-fingers {
   padding-left: 2em !important;
+}
+
+.venue-header {
+  background-image: url("/assets/themes/snowcamp/skin/pilsi-ujf-xlarge.jpg") !important;
+  background-color: #1B1C1D;
+  background-size: cover !important;
+  background-repeat: no-repeat;
+}
+
+@media screen and (min-width: 400px) and (max-width: 1024px) {
+  .venue-header {
+      background-image: url("/assets/themes/snowcamp/skin/pilsi-ujf-large.jpg") !important;
+  }
+}
+
+
+@media screen and (max-width: 399px) {
+  .venue-header {
+      background-image: url("/assets/themes/snowcamp/skin/pilsi-ujf-medium.jpg") !important;
+  }
 }
