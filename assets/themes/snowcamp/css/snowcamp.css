@@ -25,6 +25,10 @@
   margin: 20px;
 }
 
+.sponsors-type {
+    color: #0d69b2;
+}
+
 .sponsors-header {
   background-image: url("/assets/themes/snowcamp/skin/sponsors-ujf-xlarge.jpg") !important;
   background-color: #1B1C1D;
