@@ -1,0 +1,17 @@
+<div class="ui large secondary {{ include.menuType }} pointing menu">
+    <a class="toc item">
+      <i class="sidebar icon"></i>
+    </a>
+    {% assign postsWithMenu = site.posts | where: "menu", true | where: "lang", page.lang %}
+    {% for post in postsWithMenu reversed %}
+      {% if post.categories contains "2017" %}
+        <a class="item" href="{{post.id}}">{{post.title}}</a>
+      {% endif %}
+    {% endfor %}
+    <a class="item" href="https://yurplan.com/event/Snow-Camp-2017/11544" target="_blank">Tickets</a>
+
+    <div class="right item">
+      <a class="ui {{ include.menuType }} button" href="/2017/{{page.lang}}/sponsors">Sponsors</a>
+      <a class="ui {{ include.menuType }} button" href="https://snowcamp.cfp.io" target="_blank">CFP</a>
+    </div>
+</div>
