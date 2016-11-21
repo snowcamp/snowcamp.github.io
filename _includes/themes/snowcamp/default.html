@@ -203,30 +203,7 @@
   {{ page.content }}
 </div>
 
-<div class="ui inverted vertical footer segment">
-  <div class="ui container">
-    <div class="ui stackable inverted divided equal height stackable grid">
-      <div class="twelve wide column">
-        <h3 class="ui inverted header">{% if page.lang == "en" %}About{% else %}A propos{% endif %}</h3>
-        <div class="ui inverted link list">
-          <h3 class="ui header">
-            <a href="mailto:?Subject=Hello" rel="me" class="item"><i class="large inverted mail outline icon"></i>contact_at_snowcamp_dot_io</a>
-          </h3>
-          <h3 class="ui header">
-            <a href="https://twitter.com/SnowCampio" class="item"><i class="large inverted twitter icon"></i>@SnowCampIO</a>
-          </h3>
-          <!--a href="#" class="item">Sitemap</a-->
-        </div>
-      </div>
-
-      <div class="four wide column">
-        <h4 class="ui inverted header">
-            <img class="ui tiny center aligned image" src="/assets/themes/snowcamp/skin/alpes-snow-full-illustration.png" />
-        </h4>
-      </div>
-    </div>
-  </div>
-</div>
+  {% include themes/snowcamp/footer.html %}  
 </body>
 
 </html>

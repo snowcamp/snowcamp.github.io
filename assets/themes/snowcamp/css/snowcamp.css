@@ -40,11 +40,28 @@
   .sponsors-header {
       background-image: url("/assets/themes/snowcamp/skin/sponsors-ujf-large.jpg") !important;
   }
+
+  .sponsors-flocon-medium {
+    width: 60% !important;
+  }
+
+  .sponsors-flocon-small {
+    width: 35% !important;
+  }
+
 }
 
 @media screen and (max-width: 399px) {
   .sponsors-header {
       background-image: url("/assets/themes/snowcamp/skin/sponsors-ujf-medium.jpg") !important;
+  }
+
+  .sponsors-flocon-medium {
+    width: 60% !important;
+  }
+
+  .sponsors-flocon-small {
+    width: 35% !important;
   }
 
   .sponsors-trust {

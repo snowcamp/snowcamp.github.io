@@ -1,0 +1,63 @@
+
+
+<div class="ui inverted vertical footer segment">
+  {% unless page.id contains "sponsors" %}
+    <div class="ui container">
+      <h3 class="ui inverted horizontal header divider">
+        <div>Sponsors</div>
+      </h3>
+      <div class="ui middle aligned stackable grid container">
+        <div class="row centered">
+          <h3 class="three wide column inverted">Sponsors Étoile</h3>
+        </div>
+        <div class="row centered">
+          <div class="six wide column">
+           <a href="https://www.forgerock.com/" target="_blank" title="ForgeRock">
+             <img class="ui big image centered" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2017/forgerock_footer_logo.png" />
+           </a>
+          </div>
+        </div>
+        <div class="row centered">
+          <h3 class="three wide column inverted">Sponsors Flocon</h3>
+        </div>
+        <div class="row centered">
+          <div class="four wide column">
+           <a href="https://www.elastic.co/" target="_blank" title="Elastic">
+             <img class="sponsors-flocon-medium ui medium image centered" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2017/elastic_footer_logo.png"  />
+           </a>
+          </div>
+          <div class="two wide column">
+            <a href="https://github.com/" target="_blank" title="GitHub">
+              <img class="sponsors-flocon-small ui medium image centered" src="/assets/themes/snowcamp/skin/sponsors/2017/github_footer_logo.png" />
+            </a>
+          </div>
+        </div>
+      </div>
+  </div>
+  {% endunless %}
+  <div class="ui container">
+    <h3 class="ui inverted horizontal header divider">
+      <div><i class="comments outline icon"></i></div>
+    </h3>
+    <div class="ui stackable inverted divided equal height stackable grid">
+      <div class="twelve wide column">
+        <h3 class="ui inverted header">{% if page.lang == "en" %}About{% else %}A propos{% endif %}</h3>
+        <div class="ui inverted link list">
+          <h3 class="ui header">
+            <a href="mailto:?Subject=Hello" rel="me" class="item"><i class="large inverted mail outline icon"></i>contact_at_snowcamp_dot_io</a>
+          </h3>
+          <h3 class="ui header">
+            <a href="https://twitter.com/SnowCampio" class="item"><i class="large inverted twitter icon"></i>@SnowCampIO</a>
+          </h3>
+          <!--a href="#" class="item">Sitemap</a-->
+        </div>
+      </div>
+
+      <div class="four wide column">
+        <h4 class="ui inverted header">
+            <img class="ui tiny center aligned image" src="/assets/themes/snowcamp/skin/alpes-snow-full-illustration.png" />
+        </h4>
+      </div>
+    </div>
+  </div>
+</div>
