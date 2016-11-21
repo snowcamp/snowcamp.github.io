@@ -27,6 +27,7 @@
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/icon.css">
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/sidebar.css">
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/transition.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.4/components/flag.css">
   <link href='{{ ASSET_PATH }}/css/snowcamp.css' rel="stylesheet" media="all">
   <link rel="shortcut icon" type="image/png" href="../../favicon.png">
   <style type="text/css">
@@ -161,7 +162,6 @@
       {% endif %}
     {% endfor %}
     <a class="item" href="https://yurplan.com/event/Snow-Camp-2017/11544" target="_blank">Tickets</a>
-    <!--a class="active item">Home</a-->
     <div class="right menu">
       <div class="item">
         <a class="ui button" href="/2017/{{page.lang}}/sponsors">Sponsors</a>
@@ -169,6 +169,13 @@
       <div class="item">
         <a class="ui primary button" href="https://snowcamp.cfp.io" target="_blank">CFP</a>
       </div>
+      <div class="item">
+        {% if page.lang == "en" %}
+          <a class="ui" style="margin-left:10px;" href="{{site.url}}/../../{{page.id | replace: '/en/', '/fr/'}}"><i class="fr flag"></i></a>
+        {% else %}
+          <a class="ui" style="margin-left:10px;" href="{{site.url}}/../../{{page.id | replace: '/fr/', '/en/'}}"><i class="gb flag"></i></a>
+        {% endif %}
+    </div>
     </div>
   </div>
 </div>
@@ -184,6 +191,11 @@
   <a class="item" href="https://yurplan.com/event/Snow-Camp-2017/11544" target="_blank">Tickets</a>
   <a class="item" href="/2017/{{page.lang}}/sponsors">Sponsors</a>
   <a class="item" href="https://snowcamp.cfp.io" target="_blank">CFP</a>
+  {% if page.lang == "en" %}
+    <a class="item" href="{{site.url}}/../../{{page.id | replace: '/en/', '/fr/'}}"><i class="fr flag"></i></a>
+  {% else %}
+    <a class="item" href="{{site.url}}/../../{{page.id | replace: '/fr/', '/en/'}}"><i class="gb flag"></i></a>
+  {% endif %}
 </div>
 
 <!-- Page Contents -->
