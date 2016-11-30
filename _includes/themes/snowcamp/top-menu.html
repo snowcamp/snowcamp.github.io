@@ -12,10 +12,11 @@
 
     <div class="right item">
       <a class="ui {{ include.menuType }} button" href="/2017/{{page.lang}}/sponsors">Sponsors</a>
-      <a class="ui {{ include.menuType }} button" href="https://snowcamp.cfp.io" target="_blank">CFP</a>
       {% if page.lang == "en" %}
+        <a class="ui {{ include.menuType }} primary button" href="/2017/{{page.lang}}/schedule">Schedule</a>
         <a class="ui" style="margin-left:10px;" href="{{site.url}}/../../{{page.id | replace: '/en/', '/fr/'}}"><i class="fr flag"></i></a>
       {% else %}
+        <a class="ui {{ include.menuType }} primary button" href="/2017/{{page.lang}}/schedule">Agenda</a>
         <a class="ui" style="margin-left:10px;" href="{{site.url}}/../../{{page.id | replace: '/fr/', '/en/'}}"><i class="gb flag"></i></a>
       {% endif %}
     </div>

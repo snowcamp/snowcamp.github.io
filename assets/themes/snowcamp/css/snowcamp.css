@@ -95,3 +95,23 @@
       background-image: url("/assets/themes/snowcamp/skin/pilsi-ujf-medium.jpg") !important;
   }
 }
+
+.agenda-header {
+  background-image: url("/assets/themes/snowcamp/skin/agenda-xlarge.jpg") !important;
+  background-color: #1B1C1D;
+  background-size: cover !important;
+  background-repeat: no-repeat;
+}
+
+@media screen and (min-width: 400px) and (max-width: 1024px) {
+  .agenda-header {
+      background-image: url("/assets/themes/snowcamp/skin/agenda-large.jpg") !important;
+  }
+}
+
+
+@media screen and (max-width: 399px) {
+  .agenda-header {
+      background-image: url("/assets/themes/snowcamp/skin/agenda-medium.jpg") !important;
+  }
+}

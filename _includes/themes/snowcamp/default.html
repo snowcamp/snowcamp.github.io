@@ -166,16 +166,21 @@
       <div class="item">
         <a class="ui button" href="/2017/{{page.lang}}/sponsors">Sponsors</a>
       </div>
-      <div class="item">
-        <a class="ui primary button" href="https://snowcamp.cfp.io" target="_blank">CFP</a>
-      </div>
-      <div class="item">
-        {% if page.lang == "en" %}
-          <a class="ui" style="margin-left:10px;" href="{{site.url}}/../../{{page.id | replace: '/en/', '/fr/'}}"><i class="fr flag"></i></a>
-        {% else %}
+      {% if page.lang == "en" %}
+        <div class="item">
+          <a class="ui primary button" href="/2017/{{page.lang}}/schedule">Schedule</a>
+        </div>
+        <div class="item">
+            <a class="ui" style="margin-left:10px;" href="{{site.url}}/../../{{page.id | replace: '/en/', '/fr/'}}"><i class="fr flag"></i></a>
+        </div>
+      {% else %}
+        <div class="item">
+          <a class="ui primary button" href="/2017/{{page.lang}}/schedule">Agenda</a>
+        </div>
+        <div class="item">
           <a class="ui" style="margin-left:10px;" href="{{site.url}}/../../{{page.id | replace: '/fr/', '/en/'}}"><i class="gb flag"></i></a>
-        {% endif %}
-    </div>
+        </div>
+     {% endif %}
     </div>
   </div>
 </div>
@@ -190,10 +195,11 @@
   {% endfor %}
   <a class="item" href="https://yurplan.com/event/Snow-Camp-2017/11544" target="_blank">Tickets</a>
   <a class="item" href="/2017/{{page.lang}}/sponsors">Sponsors</a>
-  <a class="item" href="https://snowcamp.cfp.io" target="_blank">CFP</a>
   {% if page.lang == "en" %}
+    <a class="item" href="/2017/{{page.lang}}/schedule">Schedule</a>
     <a class="item" href="{{site.url}}/../../{{page.id | replace: '/en/', '/fr/'}}"><i class="fr flag"></i></a>
   {% else %}
+    <a class="item" href="/2017/{{page.lang}}/schedule">Agenda</a>
     <a class="item" href="{{site.url}}/../../{{page.id | replace: '/fr/', '/en/'}}"><i class="gb flag"></i></a>
   {% endif %}
 </div>
@@ -203,7 +209,7 @@
   {{ page.content }}
 </div>
 
-  {% include themes/snowcamp/footer.html %}  
+  {% include themes/snowcamp/footer.html %}
 </body>
 
 </html>
