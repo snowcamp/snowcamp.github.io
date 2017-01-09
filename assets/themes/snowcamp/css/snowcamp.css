@@ -12,6 +12,12 @@
   margin-top: 2em !important;
 }
 
+.soldout {
+  background-image: url('/assets/themes/snowcamp/skin/soldout.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
 .supporters {
   margin-left: 45px;
   margin-right: 45px;
