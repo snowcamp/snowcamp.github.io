@@ -42,7 +42,7 @@
            </a>
           </div>
           <div class="four wide column">
-           <a href="http://sogilis.com/en/" target="_blank" title="SquareScale &amp; Sogilis">
+            {% if page.lang == "en" %}<a href="http://sogilis.com/en/" target="_blank" title="SquareScale &amp; Sogilis">{% else %}<a href="http://sogilis.com" target="_blank" title="SquareScale &amp; Sogilis">{% endif %}
              <img class="ui medium image centered" src="{{ site.url }}/assets/themes/snowcamp/skin/sponsors/2017/squarescale-sogilis_footer_logo.png"  />
            </a>
           </div>
