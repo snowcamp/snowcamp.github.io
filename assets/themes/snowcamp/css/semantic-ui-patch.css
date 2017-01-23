@@ -1,0 +1,2 @@
+/* patch for https://github.com/Semantic-Org/Semantic-UI/issues/3004 */
+.ui.popup{overflow:auto;}
