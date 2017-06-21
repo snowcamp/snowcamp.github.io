@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://snowcamp.io/fr/organisation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://snowcamp.io/en/organisation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://snowcamp.io/fr/organisation/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://snowcamp.io/fr/previous-editions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://snowcamp.io/en/previous-editions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://snowcamp.io/fr/previous-editions/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://snowcamp.io/fr/snowcamp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://snowcamp.io/en/snowcamp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://snowcamp.io/fr/snowcamp/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://snowcamp.io/fr/sponsors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://snowcamp.io/en/sponsors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://snowcamp.io/fr/sponsors/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://snowcamp.io/fr/tickets/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://snowcamp.io/en/tickets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://snowcamp.io/fr/tickets/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://snowcamp.io/fr/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://snowcamp.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://snowcamp.io/fr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://snowcamp.io/fr/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://snowcamp.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://snowcamp.io/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://snowcamp.io/fr/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://snowcamp.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://snowcamp.io/fr/tags/"
+                />
+  </url>
+  
+</urlset>
