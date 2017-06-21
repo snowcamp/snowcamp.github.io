@@ -1,11 +1,30 @@
 ## RELEASE NOTES
 
-### Version 2.2.9 - February 21, 2016
+### Version 2.2.10 - March 28, 2017
+
+**Critical Bugs**
+- **Dropdown** - Fix search input inside dropdown menu causing dropdown to close before selection when selecting an item #5113
+- **Dropdown** - (IE11 Only) Fixed issue where dropdown re-opens immediately after closing when using a `search` inside menu. #4237
+
+**Bugs**
+- **Button** - Fixes `@basicActiveBoxShadow` being used incorrectly in basic button variables
+- **Visibility** - Visibility events now fire correctly when using `context` other than body that has `overflow-x` or `overflow-y` set to `auto` or `scroll`
+- **Dropdown** - Fixes an issue where dropdown would not correctly open `upward` at bottom edge of the screen when using a `context` with `overflow-x` or `overflow-y` set to `auto`
+- **Modal** - `onDeny` and `onApprove` callbacks can no longer occur multiple times if you rapidly click a approve/deny button in a. #4479
+
+**Enhancements**
+-**Form** - Credit card validation now no longer fails validation with dashed credit card values #5122 **Thanks @neokio**
+
+**Bugs**
+- **Visibility** - Fixed bug where using visibility with `context` setting on a scrollable context (with overflow) would cause callbacks to fire incorrectly
+- **Visibility** - Fixed bug where `top passed` and `bottom passed` would appear as incorrect values if using settings from `get element calculations` when element is off screen.
+
+### Version 2.2.9 - February 21, 2017
 
 **Build Tools**
 - Fixes `2.2.8` npm install script failing due to incorrect path in `require` statement
 
-### Version 2.2.8 - February 21, 2016
+### Version 2.2.8 - February 21, 2017
 
 ### Important Note
 > Some quirks have been resolved that may cause changes for upgrading users who were expecting these behaviors
@@ -22,7 +41,7 @@ To trigger UI updates you can call `validate form`. Additional form behaviors ha
 
 **Major Enhancements**
 - **Icons** - Updates Font Awesome to `4.7.0` **Always the man @BreadMaker** [#4766](https://github.com/Semantic-Org/Semantic-UI/pull/4766)
-- **Dropdown** - Added new setting `filterAPIResults`, when set to `true` API will be expected to return the complete result set, which will then be filtered clientside to only display matching results. **Thanks @enix223** [#4815](https://github.com/Semantic-Org/Semantic-UI/pull/4815)
+- **Dropdown** - Added new setting `filterRemoteData`, when set to `true` API will be expected to return the complete result set, which will then be filtered clientside to only display matching results. **Thanks @enix223** [#4815](https://github.com/Semantic-Org/Semantic-UI/pull/4815)
 - **Dropdown** - Fixed issue where using some usage of special characters like `\` could cause dropdowns to not work. [#4688](https://github.com/Semantic-Org/Semantic-UI/pull/4688) [#4692](https://github.com/Semantic-Org/Semantic-UI/pull/4692)
 - **Tab** - Added setting `loadOnce`, which when enabled only calls remote endpoint for tab data on first load and leaves the DOM undisturbed afterwards. [#2534](https://github.com/Semantic-Org/Semantic-UI/pull/2534)
 

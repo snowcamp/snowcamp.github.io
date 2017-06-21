@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://escoffier.me/snowcamp/en/organisation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://escoffier.me/snowcamp/fr/organisation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://escoffier.me/snowcamp/en/organisation/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://escoffier.me/snowcamp/en/previous-editions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://escoffier.me/snowcamp/fr/previous-editions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://escoffier.me/snowcamp/en/previous-editions/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://escoffier.me/snowcamp/en/snowcamp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://escoffier.me/snowcamp/fr/snowcamp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://escoffier.me/snowcamp/en/snowcamp/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://escoffier.me/snowcamp/en/sponsors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://escoffier.me/snowcamp/fr/sponsors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://escoffier.me/snowcamp/en/sponsors/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://escoffier.me/snowcamp/en/tickets/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://escoffier.me/snowcamp/fr/tickets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://escoffier.me/snowcamp/en/tickets/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://escoffier.me/snowcamp/en/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://escoffier.me/snowcamp/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://escoffier.me/snowcamp/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://escoffier.me/snowcamp/en/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://escoffier.me/snowcamp/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://escoffier.me/snowcamp/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://escoffier.me/snowcamp/en/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://escoffier.me/snowcamp/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://escoffier.me/snowcamp/en/tags/"
+                />
+  </url>
+  
+</urlset>
