@@ -3,117 +3,117 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://escoffier.me/snowcamp/en/organisation/</loc>
+    <loc>http://snowcamp.io/en/organisation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://escoffier.me/snowcamp/fr/organisation/"
+                href="http://snowcamp.io/fr/organisation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://escoffier.me/snowcamp/en/organisation/"
+                href="http://snowcamp.io/en/organisation/"
                 />
   </url>
   
   <url>
-    <loc>http://escoffier.me/snowcamp/en/previous-editions/</loc>
+    <loc>http://snowcamp.io/en/previous-editions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://escoffier.me/snowcamp/fr/previous-editions/"
+                href="http://snowcamp.io/fr/previous-editions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://escoffier.me/snowcamp/en/previous-editions/"
+                href="http://snowcamp.io/en/previous-editions/"
                 />
   </url>
   
   <url>
-    <loc>http://escoffier.me/snowcamp/en/snowcamp/</loc>
+    <loc>http://snowcamp.io/en/snowcamp/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://escoffier.me/snowcamp/fr/snowcamp/"
+                href="http://snowcamp.io/fr/snowcamp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://escoffier.me/snowcamp/en/snowcamp/"
+                href="http://snowcamp.io/en/snowcamp/"
                 />
   </url>
   
   <url>
-    <loc>http://escoffier.me/snowcamp/en/sponsors/</loc>
+    <loc>http://snowcamp.io/en/sponsors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://escoffier.me/snowcamp/fr/sponsors/"
+                href="http://snowcamp.io/fr/sponsors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://escoffier.me/snowcamp/en/sponsors/"
+                href="http://snowcamp.io/en/sponsors/"
                 />
   </url>
   
   <url>
-    <loc>http://escoffier.me/snowcamp/en/tickets/</loc>
+    <loc>http://snowcamp.io/en/tickets/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://escoffier.me/snowcamp/fr/tickets/"
+                href="http://snowcamp.io/fr/tickets/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://escoffier.me/snowcamp/en/tickets/"
+                href="http://snowcamp.io/en/tickets/"
                 />
   </url>
   
   <url>
-    <loc>http://escoffier.me/snowcamp/en/categories/</loc>
+    <loc>http://snowcamp.io/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://escoffier.me/snowcamp/fr/categories/"
+                href="http://snowcamp.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://escoffier.me/snowcamp/en/categories/"
+                href="http://snowcamp.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://escoffier.me/snowcamp/en/</loc>
+    <loc>http://snowcamp.io/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://escoffier.me/snowcamp/fr/"
+                href="http://snowcamp.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://escoffier.me/snowcamp/en/"
+                href="http://snowcamp.io/en/"
                 />
   </url>
   
   <url>
-    <loc>http://escoffier.me/snowcamp/en/tags/</loc>
+    <loc>http://snowcamp.io/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://escoffier.me/snowcamp/fr/tags/"
+                href="http://snowcamp.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://escoffier.me/snowcamp/en/tags/"
+                href="http://snowcamp.io/en/tags/"
                 />
   </url>
   
