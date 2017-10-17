@@ -55,9 +55,8 @@ Pour réussir dans cette aventure, nous avons besoin de vous. En retour, nous vo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snowcamp.io/fr/tickets/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}   Billeterie  Vous pouvez acheter le pack 3 jours (universités + conférences), ou 2 jours (conférences seulement). L&#39;achat du ticket est délégué à notre prestataire YurPlan. Attention, le nombre de billets est limité ! La billetterie n&#39;est pas encore ouverte.
-   Standard - Package 3 jours {{ $.Site.Data.ticket.prices.full_pack }} &amp;euro; Universités + Conférences
-  Accès aux universités  Accès aux conférences  Petit déjeuner sur les 3 jours  Repas midi sur les 3 jours  Meet &amp;amp; Greet le jeudi soir  La billetterie n&#39;est pas encore ouverte    Standard - Package 2 jours {{ $.</description>
+      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}   Billetterie  Vous pouvez acheter le pack 3 jours (Universités + Conférences), ou 2 jours (Conférences seulement). L&#39;achat du ticket est délégué à notre prestataire YurPlan. Attention, le nombre de billets est limité ! La Billetterie Early Birds est ouverte ! ... jusqu&#39;à la parution du programme, mi-Novembre
+   Early Birds - Package 3 jours {{ $.</description>
     </item>
     
   </channel>
