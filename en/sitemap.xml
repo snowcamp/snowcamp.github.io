@@ -3,117 +3,117 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://snowcamp.io/en/organisation/</loc>
+    <loc>http://localhost:6789/en/organisation/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://snowcamp.io/fr/organisation/"
+                href="http://localhost:6789/fr/organisation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://snowcamp.io/en/organisation/"
+                href="http://localhost:6789/en/organisation/"
                 />
   </url>
   
   <url>
-    <loc>https://snowcamp.io/en/previous-editions/</loc>
+    <loc>http://localhost:6789/en/previous-editions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://snowcamp.io/fr/previous-editions/"
+                href="http://localhost:6789/fr/previous-editions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://snowcamp.io/en/previous-editions/"
+                href="http://localhost:6789/en/previous-editions/"
                 />
   </url>
   
   <url>
-    <loc>https://snowcamp.io/en/snowcamp/</loc>
+    <loc>http://localhost:6789/en/snowcamp/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://snowcamp.io/fr/snowcamp/"
+                href="http://localhost:6789/fr/snowcamp/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://snowcamp.io/en/snowcamp/"
+                href="http://localhost:6789/en/snowcamp/"
                 />
   </url>
   
   <url>
-    <loc>https://snowcamp.io/en/sponsors/</loc>
+    <loc>http://localhost:6789/en/sponsors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://snowcamp.io/fr/sponsors/"
+                href="http://localhost:6789/fr/sponsors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://snowcamp.io/en/sponsors/"
+                href="http://localhost:6789/en/sponsors/"
                 />
   </url>
   
   <url>
-    <loc>https://snowcamp.io/en/tickets/</loc>
+    <loc>http://localhost:6789/en/tickets/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://snowcamp.io/fr/tickets/"
+                href="http://localhost:6789/fr/tickets/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://snowcamp.io/en/tickets/"
+                href="http://localhost:6789/en/tickets/"
                 />
   </url>
   
   <url>
-    <loc>https://snowcamp.io/en/categories/</loc>
+    <loc>http://localhost:6789/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://snowcamp.io/fr/categories/"
+                href="http://localhost:6789/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://snowcamp.io/en/categories/"
+                href="http://localhost:6789/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://snowcamp.io/en/</loc>
+    <loc>http://localhost:6789/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://snowcamp.io/fr/"
+                href="http://localhost:6789/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://snowcamp.io/en/"
+                href="http://localhost:6789/en/"
                 />
   </url>
   
   <url>
-    <loc>https://snowcamp.io/en/tags/</loc>
+    <loc>http://localhost:6789/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://snowcamp.io/fr/tags/"
+                href="http://localhost:6789/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://snowcamp.io/en/tags/"
+                href="http://localhost:6789/en/tags/"
                 />
   </url>
   
