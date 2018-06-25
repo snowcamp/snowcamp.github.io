@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Snowcamp 2019</title>
-    <link>http://localhost:6789/fr/tags/</link>
+    <link>https://snowcamp.io/fr/tags/</link>
     <description>Recent content in Tags on Snowcamp 2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     
-	<atom:link href="http://localhost:6789/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://snowcamp.io/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
