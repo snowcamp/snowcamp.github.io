@@ -16,7 +16,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snowcamp.io/fr/organisation/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}{{ partial &#34;header_menu.html&#34; . }}OrganisationLe Snowcamp est une conférence faite par des développeurs de la région grenobloise. Elle a été créée en2016 à l&#39;initiative de l&#39;AlpesJug. Tous les organisateurs sontdes geeks bénévoles passionnés.{{ range $.Site.Data.organisation.organizers }}{{.name}}{{ end }}{{ partial &#34;</description>
+      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}   Organisation  Le Snowcamp est une conférence faite par des développeurs de la région grenobloise. Elle a été créée en 2016 à l&#39;initiative de l&#39;AlpesJug. Tous les organisateurs sont des geeks bénévoles passionnés.    {{ range $.Site.Data.organisation.organizers }}        {{.name}}    {{ end }}      {{ partial &#34;</description>
     </item>
     
     <item>
@@ -25,8 +25,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snowcamp.io/fr/previous-editions/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}{{ partial &#34;header_menu.html&#34; . }}2018Il y avait quoi en 2018 ?Beaucoup de choses passionnantes !
-En 2018, SnowCamp était articulé autour de 4 thèmes : Découverte, Web &amp;amp; Cloud, Sécuritéet IoT. Redécouvrez l&#39;agenda et les supports de présentations ici !Sponsors 2018Sans eux, l&#39;aventure 2018 n&#39;aurait pas été possible.</description>
+      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}    2018        Il y avait quoi en 2018 ? Beaucoup de choses passionnantes !
+ En 2018, SnowCamp était articulé autour de 4 thèmes : Découverte, Web &amp;amp; Cloud, Sécurité et IoT. Redécouvrez l&#39;agenda et les supports de présentations ici !      Sponsors 2018  Sans eux, l&#39;aventure 2018 n&#39;aurait pas été possible.</description>
     </item>
     
     <item>
@@ -35,8 +35,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snowcamp.io/fr/snowcamp/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}{{ partial &#34;header_menu.html&#34; . }}SnowcampLa conférence qui envoie de la noixLe SnowCamp c&#39;est quoi ?Tout d’abord, c’est surtout une conférence à haut niveau technique oùl’innovation prime en faisant rencontrer académiques et entreprises du secteur informatique autour detechnologies d’aujourd’hui et de demain.
-Le SnowCamp est un concept à part : des ateliers le mercredi sur unejournée complète pour apprendre ou approfondir une technologie particulière ; une conférence le jeudi etvendredi plus classique mais qui permet aussi de découvrir des pitches de 5 mins sur des projetsuniversitaires ou de recherche ; enfin le samedi, une journée détente à la neige.</description>
+      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}    Snowcamp  La conférence qui envoie de la noix       Le SnowCamp c&#39;est quoi ? Tout d’abord, c’est surtout une conférence à haut niveau technique où l’innovation prime en faisant rencontrer académiques et entreprises du secteur informatique autour de technologies d’aujourd’hui et de demain.
+Le SnowCamp est un concept à part : des ateliers le mercredi sur une journée complète pour apprendre ou approfondir une technologie particulière ; une conférence le jeudi et vendredi plus classique mais qui permet aussi de découvrir des pitches de 5 mins sur des projets universitaires ou de recherche ; enfin le samedi, une journée détente à la neige.</description>
     </item>
     
     <item>
@@ -45,8 +45,8 @@ Le SnowCamp est un concept à part : des ateliers le mercredi sur unejournée c
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snowcamp.io/fr/sponsors/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}{{ partial &#34;header_menu.html&#34; . }}Devenir sponsorsLe SnowCamp est organisé bénévolement par un groupe de geeks de la région grenobloise. Leur seulemotivation est d&#39;offrir une conférence unique réunissant innovation et recherche.
-Pour réussir dans cette aventure, nous avons besoin de vous.En retour, nous vous offrons une grande visibilité, sur le web mais aussi lors de l&#39;événement. C&#39;estl&#39;occasion idéale pour rencontrer les développeurs grenoblois, montrer vos produits et services, etvous faire connaître.</description>
+      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}   Devenir sponsors  Le SnowCamp est organisé bénévolement par un groupe de geeks de la région grenobloise. Leur seule motivation est d&#39;offrir une conférence unique réunissant innovation et recherche.
+Pour réussir dans cette aventure, nous avons besoin de vous. En retour, nous vous offrons une grande visibilité, sur le web mais aussi lors de l&#39;événement. C&#39;est l&#39;occasion idéale pour rencontrer les développeurs grenoblois, montrer vos produits et services, et vous faire connaître.</description>
     </item>
     
     <item>
@@ -55,8 +55,8 @@ Pour réussir dans cette aventure, nous avons besoin de vous.En retour, nous vo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snowcamp.io/fr/tickets/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}{{ partial &#34;header_menu.html&#34; . }}BilletterieVous pouvez acheter le pack 3 jours (Universités + Conférences), ou 2 jours(Conférences seulement). L&#39;achat du ticket est délégué à notre prestataire YurPlan. Attention, lenombre de billets est limité !La billetterie n&#39;est pas encore ouverte.
-Early Birds - Package 3 jours{{ $.Site.Data.ticket.prices.full_pack }} &amp;euro; {{ $.Site.Data.ticket.prices.early_pack }} &amp;euro;Universités + Conférences</description>
+      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}   Billetterie  Vous pouvez acheter le pack 3 jours (Universités + Conférences), ou 2 jours (Conférences seulement). L&#39;achat du ticket est délégué à notre prestataire YurPlan. Attention, le nombre de billets est limité ! La billetterie n&#39;est pas encore ouverte.
+   Early Birds - Package 3 jours {{ $.Site.Data.ticket.prices.full_pack }} &amp;euro; {{ $.Site.Data.ticket.prices.early_pack }} &amp;euro; Universités + Conférences</description>
     </item>
     
   </channel>
