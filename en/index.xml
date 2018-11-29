@@ -53,7 +53,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snowcamp.io/en/tickets/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}   Tickets  You can buy a pack of 3 days (universities + conferences), or 2 days (conferences only). The tickets can be bought through our partner YouPlan. Beware, the number of attendees is limited and we were sold out last year! The store opens from Thursday, 24th of November 2019 at 9:00 am (Paris Time Zone) (1st sale) and then from Monday, 4th of December at 2:00 pm (Paris Time Zone) (2nd sale): here.</description>
+      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}   Tickets  You can buy a pack of 3 days (universities + conferences), or 2 days (conferences only). The tickets can be bought through our partner YouPlan. Beware, the number of attendees is limited and we were sold out last year! The store is open! From Thursday, 24th of November 2019 at 9:00 am (Paris Time Zone) (1st sale) and then from Monday, 4th of December at 2:00 pm (Paris Time Zone) (2nd sale): here.</description>
     </item>
     
   </channel>
