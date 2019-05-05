@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://snowcamp.io/en/organisation/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -18,6 +19,7 @@
   
   <url>
     <loc>https://snowcamp.io/en/previous-editions/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -32,6 +34,7 @@
   
   <url>
     <loc>https://snowcamp.io/en/snowcamp/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -46,6 +49,7 @@
   
   <url>
     <loc>https://snowcamp.io/en/sponsors/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -60,6 +64,7 @@
   
   <url>
     <loc>https://snowcamp.io/en/tickets/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"

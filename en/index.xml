@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Snowcamp 2019</title>
+    <title>Snowcamp 2020</title>
     <link>https://snowcamp.io/en/</link>
-    <description>Recent content on Snowcamp 2019</description>
+    <description>Recent content on Snowcamp 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     
@@ -25,8 +25,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snowcamp.io/en/previous-editions/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}    2018        How was 2018? Great with amazing subjects!
- In 2018, SnowCamp focused on 4 themes: Discovery, Web &amp;amp; Cloud, Security and IoT. You can find the agenda and some slides here!      Sponsors 2018  Without them, nothing would have been possible. A big thank you to our sponsors 2018!</description>
+      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}    2019        How was 2019? Great with wonderful subjects!
+ In 2019, SnowCamp focused on 4 themes: Discovery, Web &amp;amp; DevOps / Cloud, Languages &amp; Paradigmes and IA / Machine Learning. You can find the agenda and some slides here!      Sponsors 2019  Without them, nothing would have been possible.</description>
     </item>
     
     <item>
@@ -53,7 +53,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snowcamp.io/en/tickets/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}   Tickets  You can buy a pack of 3 days (universities + conferences), or 2 days (conferences only). The tickets can be bought through our partner YouPlan. Beware, the number of attendees is limited and we were sold out last year! The store is sold out!
+      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}   Tickets  You can buy a pack of 3 days (universities + conferences), or 2 days (conferences only). The tickets can be bought through our partner YouPlan. Beware, the number of attendees is limited and we were sold out last year! The store is not open yet
    Early Birds - Package 3 days {{ $.</description>
     </item>
     

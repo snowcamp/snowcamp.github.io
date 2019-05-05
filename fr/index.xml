@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Snowcamp 2019</title>
+    <title>Snowcamp 2020</title>
     <link>https://snowcamp.io/fr/</link>
-    <description>Recent content on Snowcamp 2019</description>
+    <description>Recent content on Snowcamp 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     
@@ -25,8 +25,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snowcamp.io/fr/previous-editions/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}    2018        Il y avait quoi en 2018 ? Beaucoup de choses passionnantes !
- En 2018, SnowCamp était articulé autour de 4 thèmes : Découverte, Web &amp;amp; Cloud, Sécurité et IoT. Redécouvrez l&#39;agenda et les supports de présentations ici !      Sponsors 2018  Sans eux, l&#39;aventure 2018 n&#39;aurait pas été possible.</description>
+      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}    2019        Il y avait quoi en 2019 ? Beaucoup de choses captivantes !
+ En 2019, SnowCamp était articulé autour de 4 thèmes : Découverte, Web &amp;amp; DevOps / Cloud, Langages &amp; Paradigmes et IA / Machine Learning. Redécouvrez l&#39;agenda et les supports de présentations ici !      Sponsors 2019  Without them, nothing would have been possible.</description>
     </item>
     
     <item>
@@ -55,7 +55,7 @@ Pour réussir dans cette aventure, nous avons besoin de vous. En retour, nous vo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snowcamp.io/fr/tickets/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}   Billetterie  Vous pouvez acheter le pack 3 jours (Universités + Conférences), ou 2 jours (Conférences seulement). L&#39;achat du ticket est délégué à notre prestataire YurPlan. Attention, le nombre de billets est limité ! Tous les tickets ont été vendus !
+      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}   Billetterie  Vous pouvez acheter le pack 3 jours (Universités + Conférences), ou 2 jours (Conférences seulement). L&#39;achat du ticket est délégué à notre prestataire YurPlan. Attention, le nombre de billets est limité ! La billetterie n&#39;est pas encore ouverte.
    Early Birds - Package 3 jours {{ $.Site.Data.ticket.prices.full_pack }} &amp;euro; {{ $.Site.Data.ticket.prices.early_pack }} &amp;euro; Universités + Conférences</description>
     </item>
     
