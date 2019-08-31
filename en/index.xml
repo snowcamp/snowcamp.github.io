@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snowcamp 2020</title>
-    <link>http://localhost:6789/en/</link>
+    <link>https://snowcamp.io/en/</link>
     <description>Recent content on Snowcamp 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     
-	<atom:link href="http://localhost:6789/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://snowcamp.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://localhost:6789/en/organisation/</link>
+      <link>https://snowcamp.io/en/organisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:6789/en/organisation/</guid>
+      <guid>https://snowcamp.io/en/organisation/</guid>
       <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}   Organisation  Snowcamp is a conference crafted by developers from the Grenoble area. It was started in 2016 on the initiative of AlpesJug. All organizers are enthusiast geeky volonteers.    {{ range $.Site.Data.organisation.organizers }}        {{.name}}    {{ end }}      {{ partial &#34;</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:6789/en/previous-editions/</link>
+      <link>https://snowcamp.io/en/previous-editions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:6789/en/previous-editions/</guid>
+      <guid>https://snowcamp.io/en/previous-editions/</guid>
       <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}    2019        How was 2019? Great with wonderful subjects!
  In 2019, SnowCamp focused on 4 themes: Discovery, Web &amp;amp; DevOps / Cloud, Languages &amp; Paradigmes and IA / Machine Learning. You can find the agenda and some slides here!      Sponsors 2019  Without them, nothing would have been possible.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:6789/en/snowcamp/</link>
+      <link>https://snowcamp.io/en/snowcamp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:6789/en/snowcamp/</guid>
+      <guid>https://snowcamp.io/en/snowcamp/</guid>
       <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}    Snowcamp  The conference driving you (wal)nuts       What is SnowCamp? First and foremost, it&#39;s a high-level technical conference that focuses on innovation. SnowCamp brings IT professionals and researchers together to discuss today&#39;s and tomorrow’s technologies. SnowCamp is a unique concept: day-long workshops on Wednesday, to learn or improve a certain technology; a more classical conference on Thursday and Friday, with the bonus of allowing participants to discover research projects through 5 minutes pitches; a socializing and relaxing day on the snow, in the mountains, on Saturday.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:6789/en/sponsors/</link>
+      <link>https://snowcamp.io/en/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:6789/en/sponsors/</guid>
+      <guid>https://snowcamp.io/en/sponsors/</guid>
       <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}   Become a sponsor  Snowcamp is organized by a group of geeky volonteers. Their only motivation is to propose a unique conference gathering innovation and research. To make a success of this adventure, we need you. In return, we offer you a large visibility, on the web and during the event. It&#39;s the perfect opportunity to meet developers from Grenoble, demonstrate your products and services, and to make yourself known.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:6789/en/tickets/</link>
+      <link>https://snowcamp.io/en/tickets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:6789/en/tickets/</guid>
+      <guid>https://snowcamp.io/en/tickets/</guid>
       <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}   Tickets  You can buy a pack of 3 days (universities + conferences), or 2 days (conferences only). The tickets can be bought through our partner YouPlan. Beware, the number of attendees is limited and we were sold out last year! The store is not open yet
    Early Birds - Package 3 days {{ $.</description>
     </item>
