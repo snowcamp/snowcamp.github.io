@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://snowcamp.io/en/coc/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://snowcamp.io/fr/coc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snowcamp.io/en/coc/"
+                />
+  </url>
+  
+  <url>
     <loc>https://snowcamp.io/en/organisation/</loc>
     <priority>0</priority>
     <xhtml:link

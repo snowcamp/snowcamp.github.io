@@ -12,6 +12,17 @@
     
     <item>
       <title></title>
+      <link>https://snowcamp.io/fr/coc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://snowcamp.io/fr/coc/</guid>
+      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }}  Code de conduite L&#39;ensemble des participants, sponsors, volontaires et orateurs à SnowCamp sont invités à lire les recommandations de bonne conduite à la conférence.
+En cas de soucis durant la conférence, nous invitons toute personne ayant besoin d&#39;aide à contacter de préférence l&#39;équipe d&#39;organisation, qui mettra tout en oeuvre pour vous aider.
+ La version rapide SnowCamp se veut une expérience sans harcèlement, quel que soit votre sexe, votre identité sexuelle, votre âge, votre orientation sexuelle, votre handicap, votre apparence physique, votre poids, votre origine ethnique ou votre religion.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://snowcamp.io/fr/organisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
