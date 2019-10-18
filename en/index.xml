@@ -62,7 +62,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snowcamp.io/en/tickets/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }} {{ $store := $.Site.Data.ticket.store }} {{ $store_lang := ( index $store.lang .Lang ) }} {{ $store_url := ( cond ( isset $store &#34;url&#34; ) $store.url ( delimit ( slice .Site.BaseURL .Lang &#34;/tickets&#34; ) &#34;&#34; ) ) }}   Tickets  You can buy a pack of 3 days (universities + conferences), or 2 days (conferences only). The tickets can be bought through our partner YouPlan.</description>
+      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }} {{ $store := $.Site.Data.ticket.store }} {{ $store_url := ( cond ( isset $store &#34;url&#34; ) $store.url ( delimit ( slice .Site.BaseURL .Lang &#34;/tickets&#34; ) &#34;&#34; ) ) }} {{ $early_birds_status := $store.early.status }} {{ $classic_status := $store.classic.status }}   Tickets  You can buy a pack of 3 days (universities + conferences), or 2 days (conferences only). The tickets can be bought through our partner YouPlan.</description>
     </item>
     
   </channel>

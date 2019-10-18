@@ -66,7 +66,7 @@ Pour réussir dans cette aventure, nous avons besoin de vous. En retour, nous vo
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://snowcamp.io/fr/tickets/</guid>
-      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }} {{ $store := $.Site.Data.ticket.store }} {{ $store_lang := ( index $store.lang .Lang ) }} {{ $store_url := ( cond ( isset $store &#34;url&#34; ) $store.url ( delimit ( slice .Site.BaseURL .Lang &#34;/tickets&#34; ) &#34;&#34; ) ) }}   Billetterie  Vous pouvez acheter le pack 3 jours (Universités + Conférences), ou 2 jours (Conférences seulement). L&#39;achat du ticket est délégué à notre prestataire YurPlan.</description>
+      <description>{{ partial &#34;header.html&#34; . }}  {{ partial &#34;header_menu.html&#34; . }} {{ $store := $.Site.Data.ticket.store }} {{ $store_url := ( cond ( isset $store &#34;url&#34; ) $store.url ( delimit ( slice .Site.BaseURL .Lang &#34;/tickets&#34; ) &#34;&#34; ) ) }} {{ $early_birds_status := $store.early.status }} {{ $classic_status := $store.classic.status }}   Billetterie  Vous pouvez acheter le pack 3 jours (Universités + Conférences), ou 2 jours (Conférences seulement). L&#39;achat du ticket est délégué à notre prestataire YurPlan.</description>
     </item>
     
   </channel>
