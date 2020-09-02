@@ -3,6 +3,90 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://snowcamp.io/fr/coc/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snowcamp.io/en/coc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://snowcamp.io/fr/coc/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snowcamp.io/fr/organisation/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snowcamp.io/en/organisation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://snowcamp.io/fr/organisation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snowcamp.io/fr/previous-editions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snowcamp.io/en/previous-editions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://snowcamp.io/fr/previous-editions/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snowcamp.io/fr/snowcamp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snowcamp.io/en/snowcamp/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://snowcamp.io/fr/snowcamp/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snowcamp.io/fr/sponsors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snowcamp.io/en/sponsors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://snowcamp.io/fr/sponsors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://snowcamp.io/fr/tickets/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://snowcamp.io/en/tickets/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://snowcamp.io/fr/tickets/"
+                />
+  </url>
+  
+  <url>
     <loc>https://snowcamp.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
