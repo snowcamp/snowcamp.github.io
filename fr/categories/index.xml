@@ -5,10 +5,6 @@
     <link>https://snowcamp.io/fr/categories/</link>
     <description>Recent content in Categories on Snowcamp 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    
-	<atom:link href="https://snowcamp.io/fr/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr</language><atom:link href="https://snowcamp.io/fr/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

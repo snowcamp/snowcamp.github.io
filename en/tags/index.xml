@@ -5,10 +5,6 @@
     <link>https://snowcamp.io/en/tags/</link>
     <description>Recent content in Tags on Snowcamp 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    
-	<atom:link href="https://snowcamp.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>fr</language><atom:link href="https://snowcamp.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
