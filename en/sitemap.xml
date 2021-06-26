@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://snowcamp.io/en/coc/</loc>
     <xhtml:link
@@ -14,9 +13,7 @@
                 hreflang="en"
                 href="https://snowcamp.io/en/coc/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://snowcamp.io/en/organisation/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,9 +25,7 @@
                 hreflang="en"
                 href="https://snowcamp.io/en/organisation/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://snowcamp.io/en/previous-editions/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,9 +37,7 @@
                 hreflang="en"
                 href="https://snowcamp.io/en/previous-editions/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://snowcamp.io/en/snowcamp/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,9 +49,7 @@
                 hreflang="en"
                 href="https://snowcamp.io/en/snowcamp/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://snowcamp.io/en/sponsors/</loc>
     <xhtml:link
                 rel="alternate"
@@ -70,9 +61,7 @@
                 hreflang="en"
                 href="https://snowcamp.io/en/sponsors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://snowcamp.io/en/tickets/</loc>
     <xhtml:link
                 rel="alternate"
@@ -84,9 +73,7 @@
                 hreflang="en"
                 href="https://snowcamp.io/en/tickets/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://snowcamp.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -98,9 +85,7 @@
                 hreflang="en"
                 href="https://snowcamp.io/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://snowcamp.io/en/</loc>
     <xhtml:link
                 rel="alternate"
@@ -112,9 +97,7 @@
                 hreflang="en"
                 href="https://snowcamp.io/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://snowcamp.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -127,5 +110,4 @@
                 href="https://snowcamp.io/en/tags/"
                 />
   </url>
-  
 </urlset>
