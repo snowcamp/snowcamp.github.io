@@ -1,66 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Snowcamp 2023</title>
-    <link>https://snowcamp.io/en/</link>
-    <description>Recent content on Snowcamp 2023</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="https://snowcamp.io/en/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://snowcamp.io/en/coc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://snowcamp.io/en/coc/</guid>
-      <description>Code of conduct The Quick Version SnowCamp is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://snowcamp.io/en/organisation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://snowcamp.io/en/organisation/</guid>
-      <description>  Organisation  Snowcamp is a conference crafted by developers from the Grenoble area. It was started in 2016 on the initiative of AlpesJug. All organizers are enthusiast geeky volonteers.           Cédric Tran-Xuan           Julien Giovaresco           Lorie Pisicchio           Ludovic Poitou           Maha Alsayasneh           Michel Barret           Miguel Moquillon           Ouiame Talbi           Pierrick Rassat           Sébastien Chassande-Barrioz           Willy Malvault           Yannick Chiron           Yohan Lasorsa         </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://snowcamp.io/en/previous-editions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://snowcamp.io/en/previous-editions/</guid>
-      <description>2023        How was 2023? A top IT conference at Grenoble
- The agenda for SnowCamp 2023 is available here! You can also find the links to the sessions material in Sched, and the participants feedback there.
-     Sponsors 2023  Without them, nothing would have been possible. A big thank you to our sponsors 2023!    Sponsors Étoile &amp;#9734;                               Sponsors Flocon &amp;#10052;                       Relive the edition 2023 with images!</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://snowcamp.io/en/snowcamp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://snowcamp.io/en/snowcamp/</guid>
-      <description>Snowcamp  The conference driving you (wal)nuts       What is SnowCamp? First and foremost, it&#39;s a high-level technical conference that focuses on innovation. SnowCamp brings IT professionals and researchers together to discuss today&#39;s and tomorrow’s technologies. SnowCamp is a unique concept: day-long workshops on Wednesday, to learn or improve a certain technology; a more classical conference on Thursday and Friday, and a socializing and relaxing day on the snow, in the mountains, on Saturday.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://snowcamp.io/en/sponsors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://snowcamp.io/en/sponsors/</guid>
-      <description>Become a sponsor  Snowcamp is organized by a group of geeky volonteers. Their only motivation is to propose a unique conference gathering innovation and research. To make a success of this adventure, we need you. In return, we offer you a large visibility, on the web and during the event. It&#39;s the perfect opportunity to meet developers from Grenoble, demonstrate your products and services, and to make yourself known.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://snowcamp.io/en/tickets/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://snowcamp.io/en/tickets/</guid>
-      <description>TicketsYou can buy a pack of 3 days (universities + conferences), or 2 days (conferences only).The tickets can be bought through our partner BilletWeb.Beware, the number of attendees is limited and we were sold out last year!Early Birds sell starts on 16th of October at 11am! Early Birds - Package 3 days 155 &amp;euro; 100 &amp;euro; Universities &amp;#43; Conferences</description>
-    </item>
-    
-  </channel>
-</rss>
