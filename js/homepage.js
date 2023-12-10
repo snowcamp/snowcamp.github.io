@@ -1,1 +1,40 @@
-!function(e){function t(o){if(n[o])return n[o].exports;var r=n[o]={i:o,l:!1,exports:{}};return e[o].call(r.exports,r,r.exports,t),r.l=!0,r.exports}var n={};t.m=e,t.c=n,t.i=function(e){return e},t.d=function(e,n,o){t.o(e,n)||Object.defineProperty(e,n,{configurable:!1,enumerable:!0,get:o})},t.n=function(e){var n=e&&e.__esModule?function(){return e.default}:function(){return e};return t.d(n,"a",n),n},t.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},t.p="",t(t.s=1)}([function(e,t){$(document).ready(function(){var e=document.getElementById("snc-countdown"),t=e.dataset.date,n=new Date(t).getTime(),o=setInterval(function(){var e=(new Date).getTime(),t=n-e;document.getElementById("cd-days").innerText=Math.floor(t/864e5),document.getElementById("cd-hours").innerText=Math.floor(t%864e5/36e5),document.getElementById("cd-min").innerText=Math.floor(t%36e5/6e4),document.getElementById("cd-sec").innerText=Math.floor(t%6e4/1e3),t<0&&clearInterval(o)},0);$(window).scroll(function(){$(".navbar").offset().top>50?$(".navbar-fixed-top").addClass("top-nav-collapse"):$(".navbar-fixed-top").removeClass("top-nav-collapse")}),$(function(){$(document).on("click","a.page-scroll",function(e){var t=$(this),n=t.attr("href");!n.startsWith("#")&&n.includes("#")&&(n=n.substr(n.indexOf("#"))),$("html, body").stop().animate({scrollTop:$(n).offset().top},1500,"easeInOutExpo"),$(".navbar-collapse.collapse.in").removeClass("in"),e.preventDefault()})})})},function(e,t,n){e.exports=n(0)}]);
+$(document).ready(function () {
+
+  // Configure the countdown
+  var second = 1000;
+  var minute = second * 60;
+  var hour = minute * 60;
+  var day = hour * 24;
+
+  var countdown = document.getElementById('snc-countdown');
+  var dataTime = countdown.dataset.date; // Date Format : Y/m/d
+  var countDownDate = new Date(dataTime).getTime();
+
+  var timer = setInterval(function() {
+    var now = new Date().getTime();
+    var distance = countDownDate - now;
+
+    document.getElementById("cd-days").innerText = Math.floor(distance / (day)),
+    document.getElementById("cd-hours").innerText = Math.floor((distance % (day)) / (hour)),
+    document.getElementById("cd-min").innerText = Math.floor((distance % (hour)) / (minute)),
+    document.getElementById("cd-sec").innerText = Math.floor((distance % (minute)) / second);
+    if (distance < 0) {
+      clearInterval(timer);
+    }
+  }, 0);
+
+  $(function () {
+    $(document).on('click', 'a.page-scroll', function (event) {
+      var $anchor = $(this);
+      var href = $anchor.attr('href');
+      if (! href.startsWith("#")  && href.includes("#")) {
+        href = href.substr(href.indexOf("#"));
+      }
+      $('html, body').stop().animate({
+        scrollTop: $(href).offset().top
+      }, 1500, 'easeInOutExpo');
+
+      event.preventDefault();
+    });
+  });
+});
