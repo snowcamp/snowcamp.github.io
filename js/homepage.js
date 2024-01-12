@@ -13,12 +13,14 @@ $(document).ready(function () {
   var timer = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate - now;
-
-    document.getElementById("cd-days").innerText = Math.floor(distance / (day)),
-    document.getElementById("cd-hours").innerText = Math.floor((distance % (day)) / (hour)),
-    document.getElementById("cd-min").innerText = Math.floor((distance % (hour)) / (minute)),
-    document.getElementById("cd-sec").innerText = Math.floor((distance % (minute)) / second);
-    if (distance < 0) {
+    if (distance > 0) {
+      document.getElementById("cd-days").innerText = Math.floor(distance / (day));
+      document.getElementById("cd-hours").innerText = Math.floor((distance % (day)) / (hour));
+      document.getElementById("cd-min").innerText = Math.floor((distance % (hour)) / (minute));
+      document.getElementById("cd-sec").innerText = Math.floor((distance % (minute)) / second);
+      document.getElementById("snc-countdown").hidden=false;
+    } else {
+      document.getElementById("snc-countdown").hidden=true;
       clearInterval(timer);
     }
   }, 0);
