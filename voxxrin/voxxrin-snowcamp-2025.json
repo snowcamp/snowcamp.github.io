@@ -63,6 +63,7 @@
     },
     "features": {
       "favoritesEnabled": true,
+      "hideLanguages": ["EN"],
       "remindMeOnceVideosAreAvailableEnabled": false,
       "roomsDisplayed": true,
       "showInfosTab": true,
