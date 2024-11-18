@@ -60,5 +60,16 @@
         "enabled": false,
         "choices": []
       }
+    },
+    "features": {
+      "favoritesEnabled": true,
+      "remindMeOnceVideosAreAvailableEnabled": false,
+      "roomsDisplayed": true,
+      "showInfosTab": true,
+      "showRoomCapacityIndicator": false
+    },
+    "formattings": {
+      "parseMarkdownOn": ["speaker-bio", "talk-summary"],
+      "talkFormatTitle": "without-duration"
     }
   }
