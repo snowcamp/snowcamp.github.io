@@ -1,0 +1,64 @@
+{
+    "openPlannerGeneratedJson": "https://storage.googleapis.com/conferencecenterr.appspot.com/events/CdNoiI0VhwAdHo9T7fI2/1086d152-e065-42a8-9ec7-55fe7da2b3d6-voxxrin.json?t=3000",
+    "description": "Tout d'abord, c'est surtout une conférence à haut niveau technique où l'innovation prime en faisant rencontrer académiques et entreprises du secteur informatique autour de technologies d'aujourd'hui et de demain. Le SnowCamp est un concept à part : des ateliers le mercredi sur une journée complète pour apprendre ou approfondir une technologie particulière; une conférence le jeudi et vendredi plus classique; enfin le samedi, une journée détente à la neige.",
+    "keywords": ["tech", "dev", "web", "devops", "archi", "IA", "langage", "Grenoble"],
+    "location": {
+      "country": "France",
+      "city": "Grenoble",
+      "coords": {
+        "latitude": 45.191113,
+        "longitude": 5.712145
+      },
+      "address": "5-7, place Robert Schuman, 38025 Grenoble"
+    },
+    "websiteUrl": "https://snowcamp.io",
+    "language": "FR",
+    "theming": {
+      "colors": {
+        "primaryHex": "#312B45",
+        "primaryContrastHex": "#FFFFFF",
+        "secondaryHex": "#FF8A00",
+        "secondaryContrastHex": "#FFFFFF",
+        "tertiaryHex": "#8DC63F",
+        "tertiaryContrastHex": "#FFFFFF"
+      }
+    },
+    "ratings": {
+      "scale": {
+        "enabled": true,
+        "icon": "star",
+        "labels": [
+          "There are rooms for improvement",
+          "Talk was OK",
+          "Good talk",
+          "Great talk",
+          "Amazing talk"
+        ]
+      },
+      "bingo": {
+        "enabled": false,
+        "choices": [
+            { "id": "1", "label": "Difficult to understand" },
+            { "id": "2", "label": "Too fast" },
+            { "id": "3", "label": "Not enough demos/samples" },
+            { "id": "4", "label": "Complicated" },
+            { "id": "5", "label": "Too slow" },
+            { "id": "33", "label": "Learned something new" },
+            { "id": "56", "label": "This was fun!" },
+            { "id": "68", "label": "Very interesting" },
+            { "id": "85", "label": "Awesome content" },
+            { "id": "90", "label": "Really enjoyed this" },
+            { "id": "95", "label": "Amazing speaker" },
+            { "id": "100", "label": "A new Snowcamp Rock Star is born" }
+        ]
+      },
+      "free-text": {
+        "enabled": true,
+        "maxLength": 400
+      },
+      "custom-scale": {
+        "enabled": false,
+        "choices": []
+      }
+    }
+  }
