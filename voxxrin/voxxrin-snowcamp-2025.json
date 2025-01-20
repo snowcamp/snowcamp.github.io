@@ -36,20 +36,17 @@
         ]
       },
       "bingo": {
-        "enabled": false,
+        "enabled": true,
         "choices": [
-            { "id": "1", "label": "Difficult to understand" },
-            { "id": "2", "label": "Too fast" },
-            { "id": "3", "label": "Not enough demos/samples" },
-            { "id": "4", "label": "Complicated" },
-            { "id": "5", "label": "Too slow" },
-            { "id": "33", "label": "Learned something new" },
-            { "id": "56", "label": "This was fun!" },
-            { "id": "68", "label": "Very interesting" },
-            { "id": "85", "label": "Awesome content" },
-            { "id": "90", "label": "Really enjoyed this" },
-            { "id": "95", "label": "Amazing speaker" },
-            { "id": "100", "label": "A new Snowcamp Rock Star is born" }
+            { "id": "1", "label": "Drôle/original 😃" },
+            { "id": "2", "label": "Très instructif 🤓" },
+            { "id": "3", "label": "Super intéressant 👍" },
+            { "id": "4", "label": "Très bon orateur/oratrice 👏" },
+            { "id": "5", "label": "Pas clair 🧐" },
+            { "id": "6", "label": "Trop technique 🤖" },
+            { "id": "7", "label": "Pas assez de démos/exemples 🤔" },
+            { "id": "8", "label": "Trop complexe 🤯" },
+            { "id": "9", "label": "J'ai appris quelque chose 🧑‍🏫" }
         ]
       },
       "free-text": {
@@ -65,7 +62,7 @@
       "favoritesEnabled": true,
       "hideLanguages": ["EN"],
       "remindMeOnceVideosAreAvailableEnabled": false,
-      "roomsDisplayed": false,
+      "roomsDisplayed": true,
       "showInfosTab": true,
       "showRoomCapacityIndicator": false
     },
