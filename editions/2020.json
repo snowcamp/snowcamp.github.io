@@ -1,0 +1,46 @@
+{
+  "start_date": "2020-01-01T00:00:00.000[Europe/Paris]",
+  "program_link": "https://snowcamp2020.sched.com/",
+  "flickr_embed_link": "https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/162459903@N02/albums/72157712842299932&sort=0&by=album&theme=default&scale=fit&speed=3000&limit=10&skin=default&autoplay=true",
+  "album_link": "https://www.flickr.com/photos/162459903@N02/albums/72157712842299932/",
+  "support_link": "https://github.com/snowcamp/snowcamp-supports-sessions/blob/main/2020.md",
+  "sponsorship": {
+    "etoile": [
+      "norsys2018",
+      "kelkoo2019",
+      "forgerock2017",
+      "bonita2019",
+      "viseo2018",
+      "kaizen2018",
+      "zenika2018",
+      "microsoft2020",
+      "soprasteria2018",
+      "open2019",
+      "criteo2019"
+    ],
+    "flocon": [
+      "tuleap2020",
+      "avisto2020",
+      "kls2020",
+      "soat2020",
+      "quiminfo2020"
+    ],
+    "partners": [
+      "manning2019",
+      "alpesjug",
+      "stickermule"
+    ]
+  },
+  "organisers": [
+    "cedric",
+    "johann",
+    "miguel",
+    "remy",
+    "lorie",
+    "ludovic",
+    "michel",
+    "maxime",
+    "sebastien",
+    "yannick"
+  ]
+}

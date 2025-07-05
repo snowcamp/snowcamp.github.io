@@ -1,0 +1,41 @@
+{
+  "start_date": "2022-01-01T00:00:00.000[Europe/Paris]",
+  "program_link": "https://snowcamp2022.sched.com/",
+  "flickr_embed_link": "https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/162459903@N02/albums/72177720296394109&sort=0&by=album&theme=default&scale=fill&speed=3000&limit=10&skin=default&autoplay=true",
+  "album_link": "https://www.flickr.com/photos/162459903@N02/albums/72177720296394109/",
+  "support_link": "https://github.com/snowcamp/snowcamp-supports-sessions/blob/main/2022.md",
+  "sponsorship": {
+    "etoile": [
+      "viseo2022",
+      "microsoft2020",
+      "gravitee2022",
+      "cgi2022",
+      "kaizen2018",
+      "soprasteria2018",
+      "open2019",
+      "norsys2018",
+      "forgerock2022",
+      "salesforce2018"
+    ],
+    "flocon": [
+      "soat2022",
+      "sogilis2022",
+      "avisto2020",
+      "kelkoo2019",
+      "bonita2019",
+      "kls2020"
+    ]
+  },
+  "organisers": [
+    "cedric",
+    "miguel",
+    "lorie",
+    "ludovic",
+    "michel",
+    "maxime",
+    "sebastien",
+    "yannick",
+    "pierrick",
+    "yohan"
+  ]
+}

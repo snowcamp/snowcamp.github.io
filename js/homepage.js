@@ -10,7 +10,7 @@ $(document).ready(function () {
   var dataTime = countdown.dataset.date; // Date Format : Y/m/d
   var countDownDate = new Date(dataTime).getTime();
 
-  var timer = setInterval(function() {
+  /*var timer = setInterval(function() {
     var now = new Date().getTime();
     var distance = countDownDate - now;
     if (distance > 0) {
@@ -23,7 +23,7 @@ $(document).ready(function () {
       document.getElementById("snc-countdown").hidden=true;
       clearInterval(timer);
     }
-  }, 0);
+  }, 0);*/
 
   $(function () {
     $(document).on('click', 'a.page-scroll', function (event) {

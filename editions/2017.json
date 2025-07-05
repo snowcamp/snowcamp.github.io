@@ -1,0 +1,49 @@
+{
+  "start_date": "2017-01-01T00:00:00.000[Europe/Paris]",
+  "program_link": "https://snowcamp2017.sched.com/",
+  "flickr_embed_link": "https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/ludovicpoitou/albums/72157680189414036&sort=0&by=album&theme=default_notextpanel&scale=fill&skin=default-light&autoplay=true&id=5928285e55232",
+  "sponsorship": {
+    "chamois": [
+      "beebuzziness2017"
+    ],
+    "etoile": [
+      "forgerock2017",
+      "mgm2017",
+      "kaizen2018",
+      "streamdataio2016",
+      "sogilis2017"
+    ],
+    "flocon": [
+      "elastic2016",
+      "github2017",
+      "michelin2017",
+      "algoo2017"
+    ],
+    "partners": [
+      {
+        "name": "AlpesJUG",
+        "logo": "img/partners/alpesjug.png",
+        "link": {
+          "fr": "http://alpesjug.fr/",
+          "en": "http://alpesjug.fr/"
+        },
+        "description": {
+          "fr": "<b>AlpesJug</b> est le groupe des utilisateurs Java de la région grenobloise, et à l'origine du Snowcamp.",
+          "en": "<b>AlpesJug</b> is the Java User Group of the Grenoble area, and the initiator of the Snowcamp conference."
+        }
+      }
+    ]
+  },
+  "organisers": [
+    "cedric",
+    "clement",
+    "emmanuel",
+    "johann",
+    "mickael",
+    "miguel",
+    "remy",
+    "sylvain",
+    "lorie",
+    "ludovic"
+  ]
+}

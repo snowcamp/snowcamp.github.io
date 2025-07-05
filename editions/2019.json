@@ -1,0 +1,47 @@
+{
+  "start_date": "2019-01-01T00:00:00.000[Europe/Paris]",
+  "program_link": "https://snowcamp2019.sched.com/",
+  "flickr_embed_link": "https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/162459903@N02/albums/72157706183887935&sort=0&by=album&theme=default&scale=fill&speed=3000&limit=10&skin=default&autoplay=true",
+  "album_link": "https://www.flickr.com/photos/162459903@N02/albums/72157706183887935/",
+  "sponsorship": {
+    "chamois": [
+      "thales2019"
+    ],
+    "etoile": [
+      "zenika2018",
+      "norsys2018",
+      "forgerock2017",
+      "open2019",
+      "stacklabs2019",
+      "criteo2019",
+      "kaizen2018",
+      "soprasteria2018",
+      "kelkoo2019"
+    ],
+    "flocon": [
+      "salesforce2018",
+      "orange2019",
+      "bonita2019",
+      "exoscale2019"
+    ],
+    "partners": [
+      "manning2019",
+      "alpesjug",
+      "stickermule"
+    ]
+  },
+  "organisers": [
+    "cedric",
+    "clement",
+    "johann",
+    "miguel",
+    "remy",
+    "sylvain",
+    "lorie",
+    "ludovic",
+    "michel",
+    "maxime",
+    "sebastien",
+    "yannick"
+  ]
+}

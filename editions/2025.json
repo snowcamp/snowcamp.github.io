@@ -1,0 +1,94 @@
+{
+  "program_link": "https://app.voxxr.in/events/snowcamp25/schedule",
+  "flickr_embed_link": "https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/162459903@N02/albums/72177720305519001&sort=0&by=album&theme=default&scale=fill&speed=3000&limit=10&skin=default&autoplay=true",
+  "album_link": "https://www.flickr.com/photos/162459903@N02/albums/72177720323348522/",
+  "support_link": "https://github.com/snowcamp/snowcamp-supports-sessions/blob/main/2025.md",
+  "start_date": "2025-01-28T08:00:00.000",
+  "end_date": "2025-01-31T18:00:00.000",
+  "timeline": {
+    "tremplin": {
+      "open": "2025-04-01T00:00:00.000",
+      "close": "2025-06-15T00:00:00.000",
+      "notification": "2025-06-01T00:00:00.000"
+    },
+    "cfp": {
+      "open": "2025-09-01T00:00:00.000",
+      "close": "2025-10-15T00:00:00.000",
+      "notification": "2025-11-01T00:00:00.000"
+    },
+    "sponsor": {
+      "open": "2025-06-17T11:00:00.000"
+    },
+    "tickets": {
+      "open": "2025-11-17T11:00:00.000",
+      "close": "2025-10-15T00:00:00.000"
+    }
+  },
+  "sponsorship": {
+    "prospectus": "https://drive.google.com/file/d/1hOHTGVXJfiQ0nJFJugivkNr3SwdEXuSF/view?usp=share_link",
+    "subscribe_link": "https://docs.google.com/forms/d/e/1FAIpQLSf8fpWvTQTFy0tJnFcCCkQEttTUAnfM3GJ0ksNwG9tnX7FubQ/viewform?usp=sf_link",
+    "type": {
+      "flocon": {
+        "title": "Flocon",
+        "price": "1000 €",
+        "number": 6,
+        "kakemono": true,
+        "places": {
+          "conferences": 2
+        }
+      },
+      "etoile": {
+        "title": "Étoile",
+        "price": "3500 €",
+        "number": 12,
+        "booth_area": "3x3=9m²",
+        "kakemono": false,
+        "places": {
+          "conferences": 3,
+          "booth": 2,
+          "speakers_dinner": 0
+        }
+      }
+    },
+    "display": "current",
+    "etoile": [
+      "cgi2022",
+      "abylsen2023",
+      "kaizen",
+      "open2024",
+      "moodys2025",
+      "viseo2022",
+      "criteo2023",
+      "elastic2025",
+      "clevercloud"
+    ],
+    "flocon": [
+      "avisto2020",
+      "kls2020",
+      "soprasteria2018",
+      "bonita2024",
+      "salesforce2018",
+      "zenika2023",
+      "kelkoo2019",
+      "bpifrance2025",
+      "havanait"
+    ],
+    "partners": [
+      "alpesjug"
+    ]
+  },
+  "organisers": [
+    "miguel",
+    "ludovic",
+    "michel",
+    "maxime",
+    "sebastien",
+    "yannick",
+    "pierrick",
+    "yohan",
+    "willy",
+    "charles",
+    "ouiame",
+    "virginie"
+  ]
+}

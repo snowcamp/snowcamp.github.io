@@ -1,0 +1,47 @@
+{
+  "start_date": "2024-01-01T00:00:00.000[Europe/Paris]",
+  "program_link": "https://snowcamp2024.sched.com/",
+  "flickr_embed_link": "https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/162459903@N02/albums/72177720305519001&sort=0&by=album&theme=default&scale=fill&speed=3000&limit=10&skin=default&autoplay=true",
+  "album_link": "https://www.flickr.com/photos/162459903@N02/albums/72177720305519001/",
+  "support_link": "https://github.com/snowcamp/snowcamp-supports-sessions/blob/main/2024.md",
+  "sponsorship": {
+    "etoile": [
+      "moodys2023",
+      "viseo2022",
+      "open2024",
+      "atos2024",
+      "kaizen2018",
+      "elastic2016",
+      "criteo2023",
+      "norsys2018",
+      "cgi2022",
+      "thales2023",
+      "soprasteria2018",
+      "salesforce2018"
+    ],
+    "flocon": [
+      "slate2024",
+      "kls2020",
+      "avisto2020",
+      "cbtw2024",
+      "zenika2023",
+      "bonita2024",
+      "kelkoo2019"
+    ]
+  },
+  "organisers": [
+    "miguel",
+    "ludovic",
+    "michel",
+    "maxime",
+    "sebastien",
+    "yannick",
+    "pierrick",
+    "yohan",
+    "willy",
+    "charles",
+    "mathieu",
+    "ouiame",
+    "virginie"
+  ]
+}

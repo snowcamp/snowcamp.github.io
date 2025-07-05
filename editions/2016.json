@@ -1,0 +1,35 @@
+{
+  "start_date": "2016-01-01T00:00:00.000[Europe/Paris]",
+  "program_link": "https://snowcamp2016.sched.com/",
+  "flickr_embed_link": "https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/jmesnil/albums/72157663571775721&sort=4&by=album&theme=default_notextpanel&scale=fit&skin=alexis-light&autoplay=true&id=59283040275c6",
+  "sponsorship": {
+    "etoile": [
+      "tuleap2018",
+      "redhat2016"
+    ],
+    "flocon": [
+      "sonarqube2016",
+      "salesforce2018",
+      "elastic2016",
+      "deolan2016",
+      "datastax2016",
+      "streamdataio2016",
+      "jahia2016",
+      "adobe2016"
+    ],
+    "partners": [
+      "alpesjug"
+    ]
+  },
+  "organisers": [
+    "aurore",
+    "cedric",
+    "clement",
+    "emmanuel",
+    "johann",
+    "mickael",
+    "miguel",
+    "remy",
+    "sylvain"
+  ]
+}
