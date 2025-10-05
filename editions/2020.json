@@ -25,11 +25,7 @@
       "soat2020",
       "quiminfo2020"
     ],
-    "partners": [
-      "manning2019",
-      "alpesjug",
-      "stickermule"
-    ]
+    "partners": ["manning2019", "alpesjug", "stickermule"]
   },
   "organisers": [
     "cedric",

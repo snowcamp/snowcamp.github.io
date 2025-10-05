@@ -1,12 +1,11 @@
 $(document).ready(function () {
-
   // Configure the countdown
   var second = 1000;
   var minute = second * 60;
   var hour = minute * 60;
   var day = hour * 24;
 
-  var countdown = document.getElementById('snc-countdown');
+  var countdown = document.getElementById("snc-countdown");
   var dataTime = countdown.dataset.date; // Date Format : Y/m/d
   var countDownDate = new Date(dataTime).getTime();
 
@@ -26,15 +25,21 @@ $(document).ready(function () {
   }, 0);*/
 
   $(function () {
-    $(document).on('click', 'a.page-scroll', function (event) {
+    $(document).on("click", "a.page-scroll", function (event) {
       var $anchor = $(this);
-      var href = $anchor.attr('href');
-      if (! href.startsWith("#")  && href.includes("#")) {
+      var href = $anchor.attr("href");
+      if (!href.startsWith("#") && href.includes("#")) {
         href = href.substr(href.indexOf("#"));
       }
-      $('html, body').stop().animate({
-        scrollTop: $(href).offset().top
-      }, 1500, 'easeInOutExpo');
+      $("html, body")
+        .stop()
+        .animate(
+          {
+            scrollTop: $(href).offset().top,
+          },
+          1500,
+          "easeInOutExpo",
+        );
 
       event.preventDefault();
     });

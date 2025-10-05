@@ -14,15 +14,8 @@
       "viseo2018",
       "redhat2016"
     ],
-    "flocon": [
-      "tuleap2018",
-      "salesforce2018",
-      "zenika2018",
-      "algoo2017"
-    ],
-    "partners": [
-      "alpesjug"
-    ]
+    "flocon": ["tuleap2018", "salesforce2018", "zenika2018", "algoo2017"],
+    "partners": ["alpesjug"]
   },
   "organisers": [
     "cedric",

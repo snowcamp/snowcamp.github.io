@@ -1,73 +1,82 @@
 {
-    "openPlannerGeneratedJson": "https://storage.googleapis.com/conferencecenterr.appspot.com/events/CdNoiI0VhwAdHo9T7fI2/1086d152-e065-42a8-9ec7-55fe7da2b3d6-voxxrin.json?t=3000",
-    "description": "Tout d'abord, c'est surtout une conférence à haut niveau technique où l'innovation prime en faisant rencontrer académiques et entreprises du secteur informatique autour de technologies d'aujourd'hui et de demain. Le SnowCamp est un concept à part : des ateliers le mercredi sur une journée complète pour apprendre ou approfondir une technologie particulière; une conférence le jeudi et vendredi plus classique; enfin le samedi, une journée détente à la neige.",
-    "keywords": ["tech", "dev", "web", "devops", "archi", "IA", "langage", "Grenoble"],
-    "location": {
-      "country": "France",
-      "city": "Grenoble",
-      "coords": {
-        "latitude": 45.191113,
-        "longitude": 5.712145
-      },
-      "address": "5-7, place Robert Schuman, 38025 Grenoble"
+  "openPlannerGeneratedJson": "https://storage.googleapis.com/conferencecenterr.appspot.com/events/CdNoiI0VhwAdHo9T7fI2/1086d152-e065-42a8-9ec7-55fe7da2b3d6-voxxrin.json?t=3000",
+  "description": "Tout d'abord, c'est surtout une conférence à haut niveau technique où l'innovation prime en faisant rencontrer académiques et entreprises du secteur informatique autour de technologies d'aujourd'hui et de demain. Le SnowCamp est un concept à part : des ateliers le mercredi sur une journée complète pour apprendre ou approfondir une technologie particulière; une conférence le jeudi et vendredi plus classique; enfin le samedi, une journée détente à la neige.",
+  "keywords": [
+    "tech",
+    "dev",
+    "web",
+    "devops",
+    "archi",
+    "IA",
+    "langage",
+    "Grenoble"
+  ],
+  "location": {
+    "country": "France",
+    "city": "Grenoble",
+    "coords": {
+      "latitude": 45.191113,
+      "longitude": 5.712145
     },
-    "websiteUrl": "https://snowcamp.io",
-    "language": "FR",
-    "theming": {
-      "colors": {
-        "primaryHex": "#312B45",
-        "primaryContrastHex": "#FFFFFF",
-        "secondaryHex": "#FF8A00",
-        "secondaryContrastHex": "#FFFFFF",
-        "tertiaryHex": "#8DC63F",
-        "tertiaryContrastHex": "#FFFFFF"
-      }
-    },
-    "ratings": {
-      "scale": {
-        "enabled": true,
-        "icon": "star",
-        "labels": [
-          "There are rooms for improvement",
-          "Talk was OK",
-          "Good talk",
-          "Great talk",
-          "Amazing talk"
-        ]
-      },
-      "bingo": {
-        "enabled": true,
-        "choices": [
-            { "id": "1", "label": "Drôle/original 😃" },
-            { "id": "2", "label": "Très instructif 🤓" },
-            { "id": "3", "label": "Super intéressant 👍" },
-            { "id": "4", "label": "Très bon orateur/oratrice 👏" },
-            { "id": "5", "label": "Pas clair 🧐" },
-            { "id": "6", "label": "Trop technique 🤖" },
-            { "id": "7", "label": "Pas assez de démos/exemples 🤔" },
-            { "id": "8", "label": "Trop complexe 🤯" },
-            { "id": "9", "label": "J'ai appris quelque chose 🧑‍🏫" }
-        ]
-      },
-      "free-text": {
-        "enabled": true,
-        "maxLength": 400
-      },
-      "custom-scale": {
-        "enabled": false,
-        "choices": []
-      }
-    },
-    "features": {
-      "favoritesEnabled": true,
-      "hideLanguages": ["EN"],
-      "remindMeOnceVideosAreAvailableEnabled": false,
-      "roomsDisplayed": true,
-      "showInfosTab": true,
-      "showRoomCapacityIndicator": false
-    },
-    "formattings": {
-      "parseMarkdownOn": ["speaker-bio", "talk-summary"],
-      "talkFormatTitle": "without-duration"
+    "address": "5-7, place Robert Schuman, 38025 Grenoble"
+  },
+  "websiteUrl": "https://snowcamp.io",
+  "language": "FR",
+  "theming": {
+    "colors": {
+      "primaryHex": "#312B45",
+      "primaryContrastHex": "#FFFFFF",
+      "secondaryHex": "#FF8A00",
+      "secondaryContrastHex": "#FFFFFF",
+      "tertiaryHex": "#8DC63F",
+      "tertiaryContrastHex": "#FFFFFF"
     }
+  },
+  "ratings": {
+    "scale": {
+      "enabled": true,
+      "icon": "star",
+      "labels": [
+        "There are rooms for improvement",
+        "Talk was OK",
+        "Good talk",
+        "Great talk",
+        "Amazing talk"
+      ]
+    },
+    "bingo": {
+      "enabled": true,
+      "choices": [
+        { "id": "1", "label": "Drôle/original 😃" },
+        { "id": "2", "label": "Très instructif 🤓" },
+        { "id": "3", "label": "Super intéressant 👍" },
+        { "id": "4", "label": "Très bon orateur/oratrice 👏" },
+        { "id": "5", "label": "Pas clair 🧐" },
+        { "id": "6", "label": "Trop technique 🤖" },
+        { "id": "7", "label": "Pas assez de démos/exemples 🤔" },
+        { "id": "8", "label": "Trop complexe 🤯" },
+        { "id": "9", "label": "J'ai appris quelque chose 🧑‍🏫" }
+      ]
+    },
+    "free-text": {
+      "enabled": true,
+      "maxLength": 400
+    },
+    "custom-scale": {
+      "enabled": false,
+      "choices": []
+    }
+  },
+  "features": {
+    "favoritesEnabled": true,
+    "hideLanguages": ["EN"],
+    "remindMeOnceVideosAreAvailableEnabled": false,
+    "roomsDisplayed": true,
+    "showInfosTab": true,
+    "showRoomCapacityIndicator": false
+  },
+  "formattings": {
+    "parseMarkdownOn": ["speaker-bio", "talk-summary"],
+    "talkFormatTitle": "without-duration"
   }
+}
