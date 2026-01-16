@@ -1,0 +1,109 @@
+{
+  "program_link": "https://app.voxxr.in/events/snowcamp26/schedule",
+  "program_show": true,
+  "flickr_embed_link": "https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/162459903@N02/albums/72177720305519001&sort=0&by=album&theme=default&scale=fill&speed=3000&limit=10&skin=default&autoplay=true",
+  "album_link": null,
+  "start_date": "2026-01-14T08:00:00.000[Europe/Paris]",
+  "end_date": "2026-01-17T18:00:00.000[Europe/Paris]",
+  "timeline": {
+    "tremplin": {
+      "open": "2025-04-01T00:00:00.000[Europe/Paris]",
+      "close": "2025-06-01T00:00:00.000[Europe/Paris]",
+      "notification": "2025-06-15T00:00:00.000[Europe/Paris]",
+      "start": "2025-09-15T00:00:00.000[Europe/Paris]",
+      "event": "2025-11-20T00:00:00.000[Europe/Paris]"
+    },
+    "cfp": {
+      "open": "2025-09-01T00:00:00.000[Europe/Paris]",
+      "close": "2025-10-15T00:00:00.000[Europe/Paris]",
+      "notification": "2025-11-01T00:00:00.000[Europe/Paris]",
+      "publish": "2025-11-15T00:00:00.000[Europe/Paris]"
+    },
+    "sponsor": {"open": "2025-06-09T11:00:00.000[Europe/Paris]"},
+    "tickets": {"open": "2025-11-17T11:00:00.000[Europe/Paris]"}
+  },
+  "sponsorship": {
+    "prospectus": "https://drive.google.com/file/d/1hOHTGVXJfiQ0nJFJugivkNr3SwdEXuSF/view?usp=share_link",
+    "subscribe_link": "https://docs.google.com/forms/d/e/1FAIpQLScZDdAWonmZZYfV3khF5QJMIx7sx33MP8g3kzMUbLgGCFmbpQ/viewform?usp=dialog",
+    "type": {
+      "flocon": {
+        "id": "flocon",
+        "title": "Flocon",
+        "price": "1000 €",
+        "number": 12,
+        "kakemono": true,
+        "ticket_link": "https://www.billetweb.fr/snowcamp-2026&ticket=6527583",
+        "places": {"conferences": 2}
+      },
+      "etoile": {
+        "id": "etoile",
+        "title": "Étoile",
+        "price": "3500 €",
+        "number": 12,
+        "booth_area": "3x3=9m²",
+        "kakemono": false,
+        "ticket_link": "https://www.billetweb.fr/snowcamp-2026&ticket=6527584",
+        "places": {"conferences": 3, "booth": 2, "speakers_dinner": 0}
+      },
+      "tenyears": {
+        "id": "tenyears",
+        "title": "10 ans",
+        "price": "5000 €",
+        "number": 1,
+        "description": "Sponsor du goodies spécial des 10 ans: un T-shirt de qualité sur lequel sera affiché devant/derrière le logo du snowcamp et le logo des 10 ans. Votre logo sur la manche du t-shirt.",
+        "kakemono": false,
+        "places": {"conferences": 0, "booth": 0, "speakers_dinner": 0}
+      }
+    },
+    "display": "current",
+    "meetgreet": ["kaizen"],
+    "etoile": [
+      "cgi2022",
+      "open2024",
+      "moodys2025",
+      "criteo2023",
+      "kaizen",
+      "clevercloud",
+      "aws2026"
+    ],
+    "flocon": [
+      "avisto2020",
+      "zenika2023",
+      "periscop2026",
+      "soprasteria2018",
+      "kls2020",
+      "kelkoo2019",
+      "viseo2022",
+      "alma2026",
+      "enalean2026",
+      "hackyourjob2025",
+      "pingid2026"
+    ],
+    "partners": ["alpesjug", "stickermule"]
+  },
+  "ticketing": {
+    "link": "https://www.billetweb.fr/shop.php?event=snowcamp-2026",
+    "sold_out": false,
+    "price": {"conference": 110, "university": 165}
+  },
+  "tremplin": {"cfp_link": "https://conference-hall.io/tremplin-de-snowcamp-2025"},
+  "conference": {"cfp_link": "https://conference-hall.io/snowcamp-2026"},
+  "speakers_dinner": {
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSew5LabymKk3183bqOsuZhbTNN8Vyr-eJG8OGptSml1HaERIw/viewform?usp=publish-editor"
+  },
+  "organisers": [
+    "miguel",
+    "ludovic",
+    "michel",
+    "sebastien",
+    "yannick",
+    "pierrick",
+    "yohan",
+    "willy",
+    "charles",
+    "ouiame",
+    "virginie",
+    "jade"
+  ],
+  "satisfaction_link": "https://forms.gle/CQuCZymH7TZFSDKHA"
+}
